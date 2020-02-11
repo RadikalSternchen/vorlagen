@@ -1,0 +1,18 @@
+h1::before, h2::before {
+  counter-increment: para-counter;
+  content: "§" counter(para-counter) " "; 
+}
+
+ol {
+  list-style: none;
+  counter-reset: inner-counter;
+  padding-left: 1em;
+}
+
+ol li {
+  counter-increment: inner-counter;
+  margin-left: 0;
+}
+ol li::before {
+  content: "(" counter(inner-counter) ") ";
+}
