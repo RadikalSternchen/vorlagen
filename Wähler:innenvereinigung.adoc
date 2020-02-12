@@ -45,14 +45,14 @@
 . Die Vereinigung bekennt sich zu den kommunalpolitischen Eckpunkten. Diese sind:
 
 * In der „Stadt des Friedens und der Menschenrechte“ ist es für uns Linke selbstverständlich, gegen jede Art von Diskriminierung, gegen Rassismus, Antisemitismus und Ausländerfeindlichkeit aufzutreten. Jeder Versuch von alten und neuen Nazis in der Öffentlichkeit noch stärker Fuß zu fassen, muss deshalb zurückgewiesen werden
-* Wir legen alle Bezüge, die wir im Zusammenhang mit Mandaten erhalten, offen. Unsere StadträtInnen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen der Vereinigung für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
+* Wir legen alle Bezüge, die wir im Zusammenhang mit Mandaten erhalten, offen. Unsere Stadträt:innen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen der Vereinigung für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
 * Wir handeln entsprechend unserem Programm und nutzen unsere Mandate um gemeinsam mit Betroffenen öffentlichen Druck zu entwickeln! Dazu halten wir regelmäßig offene Versammlungen mit unseren Stadtratsabgeordneten ab, in denen vergangene Stadtratsarbeit diskutiert und künftige geplant wird.
 . zur Sozialbindung des Eigentums, wie sie in Artikel 14 Absatz 2 des Grundgesetzes der Bundesrepublik Deutschland definiert ist.
 . zum Vorrang der fundamentalen Menschenrechte für alle Menschen, wie sie in der Allgemeinen Erklärung der Menschenrechte in der Generalversammlung der Vereinten Nationen am 10.12.1948 verkündet wurden – insbesondere des Rechts auf Gesundheit, körperliche Unversehrtheit, ein menschenwürdiges Leben, soziale Sicherheit, Arbeit und gleichen Lohn für gleiche Arbeit.
 . zum Vorrang der natürlichen Lebensgrundlagen und ihres Schutzes gegenüber damit unvereinbaren wirtschaftlichen und politischen Interessen.
 . im Sinne des Völkerverständigungsgedankens und der Menschenrechte zur Solidarität mit benachteiligten Menschen in der sogenannten Dritten Welt.
-. zur Bewahrung, Stärkung, Durchsetzung und zum Ausbau der Rechte von ArbeitnehmerInnen und benachteiligten Menschen (z.B. Arbeitslose, RenterInnen, Behinderte)
-. zur Verteidigung und zum Ausbau der kommunalen Demokratie durch die Stärkung des Stadtparlaments, sowie der Verbesserung der Mitspracherechte der Beiräte und BürgerInnen, z.B. in Form von Beteiligungshaushalten und der Förderung direkter Mitwirkungsrechte (Volksbefragungen und –entscheide auf kommunaler Ebene).
+. zur Bewahrung, Stärkung, Durchsetzung und zum Ausbau der Rechte von Arbeitnehmer:innen und benachteiligten Menschen (z.B. Arbeitslose, Renter:innen, Behinderte)
+. zur Verteidigung und zum Ausbau der kommunalen Demokratie durch die Stärkung des Stadtparlaments, sowie der Verbesserung der Mitspracherechte der Beiräte und Bürger:innen, z.B. in Form von Beteiligungshaushalten und der Förderung direkter Mitwirkungsrechte (Volksbefragungen und –entscheide auf kommunaler Ebene).
 
 ## Mitgliedschaft
 . Mitglieder der Vereinigung sollen sich aktiv an der Umsetzung des Vereinigungszwecks beteiligen.
@@ -79,13 +79,13 @@ Jede Mitgliedsorganisation des Vereiningung benennt eine Informationsperson und 
 
 . Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen formuliert.
 . Die Vereinigung will jedem Mitglied, unabhängig von persönlichen Einschränkungen hinsichtlich Raum und Zeit und mögliche Einschränkungen, eine umfassende Teilnahme an der Meinungs- und Willensbildung ermöglichen. Daher treten die Organe grundsätzlich online zusammen und tagen grundsätzlich ständig.
-. Die Mitglieder verwenden technische Systeme um die -- bevozugt asynchrone -- Zusammenarbeit, sowie die Meinungs- und Willensbildung zu ermöglichen. Die dafür notwendigen technischen System werden von der Vereinigung zur Verfügung gestellt.
-. Jedes Organ kann sich eine Moderation bestimmen, die Verfahrensabläufe vorschlägt, überwacht und moderativ in den Meinungs- und Willensbildungsprozess eingreifen kann.
+. Die Mitglieder verwenden technische Systeme um die -- bevozugt asynchrone -- Zusammenarbeit, sowie die Meinungs- und Willensbildung zu ermöglichen. Die dafür notwendigen technischen System werden von der Vereinigung zur Verfügung gestellt. Die Daten auf diesen Systemen, und damit auch die Nutzerinnen-Daten, sind als öffentlich zu betrachten.
+. Jedes Organ kann sich eine Moderation bestimmen, die Verfahrensabläufe vorschlägt, überwacht und moderierend in den Meinungs- und Willensbildungsprozess eingreifen kann.
 . Ein Organ kann beschließen, ausnahmsweise zur Behandlung einzelner Sachverhalte zeitlich und räumlich zusammenzutreten.
 . Ein Organ tritt zur Stimmabgabe bei geheimen Wahlen an einer oder mehreren über das Tätigkeitsgebiet der jeweiligen Gliederung verteilten Wahlurnen zusammen.
 . Die Mitglieder eines Organs sind an der aktiven Mitarbeit verpflichtet, es liegt in ihrer Verantwortung an Diskussionen und der Beschlussfassung teilzunehmen. 
 . Sofern das Organ keine abweichenden Regeln getroffen hat,  gelten die folgenden Abstimmungsregeln zur Beschlussfassung:
-* Eine Beschlussvorlage muss mindestens 3 Werktage (72h) zur Debatte stehen, damit allen die Möglichkeit gegeben ist, daran teilzunehmen.
+* Eine Beschlussvorlage muss mindestens 3 Werktage (72 Stunden) zur Debatte stehen, damit allen die Möglichkeit gegeben ist, daran teilzunehmen.
 * Vorschläge zu Verfahrensweisen müssen mindestens 5 Werktage diskutiert und danach 5 Werktage abgestimmt werden können (also insg. mind 10 Werktage Zeit vergehen), damit alle Aspekte in Ruhe bedacht und abgewogen werden können.
 * Beschlüsse können auch vorher abgeschlossen werden, sofern alle Mitglieder an der Abstimmung teilgenommen haben.
 * Wenn mehr dafür als dagegen gestimmt haben, gilt ein Antrag als angenommen und nach Abschluss der Abstimmung als sofort gültig.
@@ -94,33 +94,40 @@ Jede Mitgliedsorganisation des Vereiningung benennt eine Informationsperson und 
 
 . Die politische Willensbildung von Frauen, jungen Menschen und Menschen mit Diskriminierungserfahrung wird aktiv gefördert. Es ist Ziel der Vereinigung, dass keine Personen diskriminiert oder in ihrer politischen Arbeit behindert werden. Frauen, junge Menschen und Menschen mit Diskriminierungserfahrung haben das Recht, innerhalb der Vereinigun eigene Strukturen aufzubauen und eigene Arbeitsgruppen einzuberufen.
 . Diskriminierte Menschen sind Mensch die aufgrund von Rassismus, ihrer Behinderung, ihrer sexuellen Orientierung oder ihrer Geschlechtsidentität, auch jenseits binärer Geschlechternormen, Diskriminierungserfahrungen gemacht haben. Frauen sind Menschen, die von der Gesellschaft nicht als normative Männer betrachtet werden. Junge Menschen sind Menschen, die das 25. Lebensjahr noch nicht vollendet haben.
-. In allen Versammlungen wird eine getrennte Redeliste für Frauen geführt. Unter der Voraussetzung entsprechender Wortmeldungen wird mindestens jeder zweite Redebeitrag von dieser Redeliste aufgerufen.
+. In allen Versammlungen wird eine getrennte Redeliste für Frauen geführt. Unter der Voraussetzung entsprechender Wortmeldungen wird mindestens jeder zweite Redebeitrag von dieser Redeliste aufgerufen. Bei begrenzter Anzahl an Redebeiträgen, sind die jenigen zu bevorzugen, die bisher am Wenigsten auf der Veranstaltung gesagt haben.
+. Niemand sollte mehr als zwei Legislaturen das selbe Amt oder Mandat inne haben. Diese Person kann ein drittes mal nur antreten, wenn es vorher einen 2/3 Beschuss des jeweilig wählenden Organs gab, dass die Zulassung genehmigt hat.
 . Bei allen gewählten Organen ist auf einen Anteil von mindestens 50% Frauen, 25% diskriminierte Menschen und 15% junge Menschen hinzuwirken, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
-. Bei der Aufstellung von Wahllisten ist der erste Platz und dann mindestens jeder zweite Platz an eine Frau zu vergeben, der spätestens dritte und dann mindestens jeder vierte Platz an einen diskriminierten Menschen und spätestens der fünfte und dann jeder vierte Platz an einen jungen Menschen zu vergeben, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
-. Diese Quotierungen sind auch bei einer Blockwahlvorschlägen einzuhalten.
-. Der Absatz zur Beteiligungsförderung kann nur mit einem 2/3-Beschluss der Vollversammlung verändert werden.
-
+. Bei der Aufstellung von Wahllisten ist der erste Platz und dann mindestens jeder zweite Platz an eine Frau zu vergeben, der spätestens dritte und dann mindestens jede vierte Platz an einen diskriminierten Menschen und spätestens der fünfte und dann jeder vierte Platz an einen jungen Menschen zu vergeben, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
+. Diese Quotierungen sind auch bei Blockwahlvorschlägen einzuhalten.
+. Der Paragraph zur Beteiligungsförderung kann nur mit einem 2/3-Beschluss der Vollversammlung verändert werden.
 
 ## Organe der Vereinigung
-Organe der Vereinigung sind die Vollversammlung, der Koordinierungsausschuss, die Schiedskommission, die Kassenrevision und die Arbeitskreise.
+Organe der Vereinigung sind die ständige Vollversammlung, die Wahversammlung, der Koordinierungsausschuss, die Schiedskommission, die Kassenrevision und die Arbeitskreise.
 
-## Die Vollversammlung
-. Die Vollversammlung ist die Mitgliederversammlung der Vereinigung. Sie ist das höchste Organ der Vereinignung. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung der Vereinigung betreffen. MandatsträgerInnen sind verpflichtet an der Vollversammlung teilzunehmen.
+## Die ständige Vollversammlung
+. Die ständige Vollversammlung ist die Mitgliederversammlung der Vereinigung. Sie ist das höchste Organ der Vereinignung. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung der Vereinigung betreffen. Mandatsträger:innen sind verpflichtet an der Vollversammlung teilzunehmen.
+. Sie tagt grundsätzlich asynchron online und dauerhaft. Sie bestimmt eine Moderation, die die Durchführung leitet.
 . Sie entscheidet über die Satzung und deren Änderung. Sofern ein Absatz der Satzung keine abweichende Regelung vorsieht, genügen für alle Beschlüsse die einfache Mehrheit der abgebenen Stimmen.
 . Sie beschließt über Anträge, politische Ausrichtung und Programme und führt politische Grundsatzdiskussionen.
-. Sie nimmt Berichte der MandatsträgerInnen entgegen.
+. Sie nimmt Berichte der Mandatsträger:innen entgegen.
 . Sie nimmt einen Rechenschaftsbericht über die Finanzen der Vereinigung entgegen und entscheidet über die Rechtmäßigkeit der Ausgaben.
-. Sie legt die Größe und Amtszeit des Koordinierungsausschusses fest und wählt diesen. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind in allen Fällen einzuhalten.
-. Sie legt die Größe und die Amtzeit der Schiedskommission und der Kassenrevision fest und wählt diese. Die Schiedskommission besteht aus mindestens drei Mitgliedern. Die Mitglieder der Schiedskommission dürfen nicht gleichzeitig Mitglied des Koordinierungsausschusses sein. In der Schiedskommission müssen Frauen mindestens entsprechend ihres Anteils in der Mitgliedschaft vertreten sein. Die Quotierungen zur Vielfalts- und Jugendförderung sind in bestmöglich einzuhalten.
-. Sie tagt grundsätzlich asynchron online und dauerhaft. Sie bestimmt eine Moderation, die die Durchführung leitet.
-. Für Wahlen kann die Vollversammlung auch räumlich zusammen kommen. Dafür wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung schriftlich per E-Mail einberufen. Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der Mitgliedsorganisationen und die Einzelmitglieder spätestens 14 Tage vor dem Zusammenkommen den Einladungstext vom Koordinierungsausschuss bekommen haben. Neu-, Nach- und Abwahlen können nur stattfinden, wenn sie im Einladungstext angekündigt waren oder im Rahmen eines Antrags eingereicht wurden.
-. Für ein räumliches Zusammenkommen der Vollversammlung ist die ständige online Versammmlung unterbrochen. Das Zusammenkommen der Vollversammlung ist beschlussfähig, wenn zu ihr ordnungsgemäß einberufen wurde.
-. Eine räumlich zusammengekommene Vollversammlung kann als Wahlversammlung zur Aufstellung von KandidatInnen fungieren, wenn die Wahl in der Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des jeweiligen Kommunalwahlgesetzes erfüllen.
+. Sie legt die Größe und Amtszeit des Koordinierungsausschusses,der Schiedskommision, der Kassenrevision fest.
+. Sie kann den Koordinationsausschuss verpflichten eine Wahlversammlung einzuberufen.
+
+## Die Wahlversammlung
+. Die Wahlversammlung ist das räumliche Zusammenkommen der Mitgliederversammlung um Personenwahlen durchzuführen.
+. Dafür wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung und den zu wählenden Ämtern schriftlich per E-Mail einberufen. Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der Mitgliedsorganisationen und die Einzelmitglieder spätestens 14 Tage vor dem Zusammenkommen den Einladungstext vom Koordinierungsausschuss bekommen haben. 
+. Während der Wahlversammlung ist die ständige online Versammmlung unterbrochen. Die Wahlversammlung ist beschlussfähig, wenn zu ihr ordnungsgemäß einberufen wurde.
+. Die Wahlversammlung wählt:
+ - Den Koordinationsausschuss. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind in allen Fällen einzuhalten.
+ - Die Schiedskommission. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind einzuhalten, einzelllne Regelungen können vorrübergehend ausgesetzt werden, wenn diese nicht eingehalten werden können. Ein Aussetzen aller Quotierungsanforderungen ist nicht möglich.
+ - Die Kassenrevision. Dies kann auch per Blockwahl geschehen.
+. Die Wahlversammlung kann als Aufstellungsversammlung von Kandidat:innen fungieren, wenn die Wahl in der Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des jeweiligen Kommunalwahlgesetzes erfüllen.
 
 ## Der Koordinierungsausschuss
 . Der Koordinierungsausschuss vertritt die Vereinigung rechtlich und nimmt alle Funktionen eines Vorstands gemäß §26 BGB wahr.
 . Der Koordinierungsausschuss führt die Vereingung.
-. Er bestimmt aus seiner Mitte eineN SchatzmeisterIn.
+. Er bestimmt aus seiner Mitte eine:n Schatzmeister:in.
 . Der Koordinierungsausschuss tagt online und dauerhaft.
 . Zu seinen Aufgaben gehören u. a.:
 
@@ -135,6 +142,7 @@ Organe der Vereinigung sind die Vollversammlung, der Koordinierungsausschuss, di
 . Der Koordinierungsausschuss lädt zur Aufstellungsversammlung ein. Die Einladung und der Inhalt der Aufstellungsversammlung entsprechen den Kriterien des Kommunalwahlrechts.
 
 ## Die Schiedskommission
+. Die Schiedskommission besteht aus mindestens drei Mitgliedern. Die Mitglieder der Schiedskommission dürfen nicht gleichzeitig Mitglied des Koordinierungsausschusses sein.
 . Die Schiedskommission tagt dauerhaft online.
 . Die Schiedskommission wird nur auf Antrag des Koordinierungsausschusses, der Vollversammlung oder eines Mitglieds, das selbst von einem Vorgang direkt und erheblich betroffen ist, tätig.
 . Die Schiedskommission entscheidet mit Zweidrittelmehrheit über Verstöße gegen die Satzung.
@@ -149,11 +157,11 @@ Organe der Vereinigung sind die Vollversammlung, der Koordinierungsausschuss, di
 . Für Mitglieder von Mitgliedsvereinen und -parteien ist der Mitgliedsbeitrag mit dem satzungsgemäßen Vereins- bzw. Parteibeitrag für ihren jeweiligen Verein oder Partei abgegolten. Im Gegenzug tragen die Mitgliedsvereine und -Parteien zu den laufenden Kosten der Vereinigung bei.
 . Die Höhe des Mitgliedsbeitrags für alle natürlichen Mitglieder der Vereinigung regelt eine Beitragsordnung, die die Vollversammlung beschließt.
 . Der Mitgliedsbeitrag wird zentral über den Koordinierungsausschuss erhoben.
-. Zeichnungsberechtigt sind jeweils SchatzmeisterIn und stellvertretendeR SchatzmeisterIn. Gibt es keineN stellvertretendeN SchatzmeisterIn, bestimmt der Koordinierungsausschuss eineN zweiteN ZeichnungsberechtigteN aus seiner Mitte.
+. Zeichnungsberechtigt sind jeweils Schatzmeister:in und stellvertretende:r Schatzmeister:in. Gibt es keine:n stellvertretende:n Schatzmeister:in, bestimmt der Koordinierungsausschuss eine:n zweite:n Zeichnungsberechtigte:n aus seiner Mitte.
 . Über diese Mittel hat der Koordinierungsausschuss die Finanzhoheit. Darüber hinausgehender Finanzbedarf ist anlassbezogen von den Mitgliedsvereinen und –Parteien fallweise zu beschließen.
 
 ## Schluss- und Übergangsbestimmungen
 . Die Vereinigung kann aufgrund eines Beschlusses der Vollverstammlung mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit der Vollversammlung.
 +
-Löst sich die Vereinigung durch Verschmelzung mit einer anderen politischen Organisation auf, geht das Vermögen an diese über. In allen anderen Fällen geht das Vermögen an die Mitglieder zu gleichen Teilen (BGB § 45 ..
+Löst sich die Vereinigung durch Verschmelzung mit einer anderen politischen Organisation auf, geht das Vermögen an diese über. In allen anderen Fällen geht das Vermögen an die Mitglieder zu gleichen Teilen (BGB §45).
 . Sollte eine oder mehrere Bestimmungen dieser Satzung rechtsunwirksam sein, so berührt dies nicht die Gültigkeit der übrigen Bestimmungen. Soweit Bestimmungen in dieser Satzung unwirksam sein sollten oder die Satzung eine Regelungslücke enthalten sollte, sind die Vorschriften des BGB über den eingetragenen Verein entsprechend anzuwenden.
