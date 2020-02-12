@@ -6,16 +6,16 @@
 
 **ToDo's**:
 
-* [ ] übernommene Version überarbeiten
+* [x] übernommene Version überarbeiten
 ** [x] format anpassen
 ** [x] namen anpassbar machen
 * [ ] Klimakonsens festschreiben
-* [ ] Vielfaltsförderung festschreiben
-* [ ] Blockwahlverfahren beschreiben, Quoten festlegen
-* [ ] Online Befragungen und Abstimmungen festlegen
-* [ ] Konkretiesierung der "Demokratie" für Arbeitskreise
-* [ ] Konkretesierung von Projekt- und dauerhaften Arbeitsgruppen
-* [ ] Umwandlung und Auflösung
+* [x] Vielfaltsförderung festschreiben
+* [x] Blockwahlverfahren beschreiben, Quoten festlegen
+* [x] Online Befragungen und Abstimmungen festlegen
+* [x] Konkretiesierung der "Demokratie" für Arbeitskreise
+* [x] Konkretesierung von Projekt- und dauerhaften Arbeitsgruppen
+* [x] Umwandlung und Auflösung
 
 **Quellen**:
 
@@ -57,13 +57,13 @@
 ## Mitgliedschaft
 . Mitglieder der Vereinigung sollen sich aktiv an der Umsetzung des Vereinigungszwecks beteiligen.
 . Mitglieder können werden:
+.. natürliche Personen, die das vierzehnte Lebensjahr vollendet haben, Wohnort, Arbeitsstelle oder Lebensmittelpunkt im Einzugsgebiet der Vereinigung haben und Satzung und Programm anerkennen
 .. Vereine (-Gliederungen) und Parteien (-Gliederungen) mit politischem Bezug zum Einzugsgebiet
 +
 Die Mitglieder dieser Vereine und Parteien sind automatisch Mitglied der Vereinigung, außer sie erklären gegenüber ihren Vorständen schriftlich, dass sie daran nicht teilhaben wollen. Der Verzicht auf die Mitgliedschaft bei der Vereinigung berührt den Status in ihrem jeweiligen Verein oder Partei nicht.
-.. natürliche Personen, die das vierzehnte Lebensjahr vollendet haben, Wohnort, Arbeitsstelle oder Lebensmittelpunkt im Einzugsgebiet der Vereinigung haben und Satzung und Programm anerkennen
 . Mitglied kann nicht sein, wer
 .. einer Organisation angehört, deren Ziele im Widerspruch zu den Zielen der Vereinigung steht. Die Feststellung der Unvereinbarkeit trifft die Vollversammlung mit absoluter Mehrheit.
-.. einer Partei, Organisation oder Vereinigung angehört oder sich schriftlich zu einer solchen bekennt, die rassistisches, antisemitisches oder antidemokratisches Gedankengut verbreitet hat.
+.. einer Partei, Organisation oder Vereinigung angehört oder sich schriftlich oder öffentlich zu einer solchen bekennt, die rassistisches, faschistische, antisemitisches oder antidemokratisches Gedankengut verbreitet hat.
 . Die Mitgliedschaft beginnt mit der Aufnahme durch den Koordinierungsausschuss der Vereinigung. Eine Bestätigung erfolgt durch die Vollversammlung.
 . Die Vereinigung führt eine zentrale Mitgliederdatei der Einzelmitglieder. Diese darf nur die Daten enthalten, die für die Zwecke der Vereinigung nötig sind. Auf eine strikte Einhaltung des Bundesdatenschutzgesetzes ist zu achten. Alle Mitglieder, die über die Mitgliedschaft einer Mitgliedsorganisation Mitglied sind, werden über ihre Organisation erfasst und betreut.
 
@@ -72,30 +72,56 @@ Jede Mitgliedsorganisation des Vereiningung benennt eine Informationsperson und 
 ## Beendigung der Mitgliedschaft
 . Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 . Der Austritt aus der Vereinigung ist jederzeit zulässig. Er erfolgt durch eine schriftliche Erklärung gegenüber dem Koordinierungsausschuss.
-. Ein Mitglied kann ausgeschlossen werden, wenn es vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze des Programms verstoßen oder der Vereinigung erheblichen Schaden zugefügt hat. Eine Betätigung nach 3 . a) ist ein solch schädigendes Verhalten und begründet einen Ausschluss.
+. Ein Mitglied kann ausgeschlossen werden, wenn es vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze des Programms verstoßen oder der Vereinigung erheblichen Schaden zugefügt hat. Eine Betätigung nach 3.3 ist ein solch schädigendes Verhalten und begründet einen Ausschluss.
 . Der Ausschluss kann nur als Folge eines Schiedsverfahrens erfolgen. Bei Einleitung eines Schiedsverfahrens entscheidet die Schiedskommission endgültig innerhalb eines Monats. Die Mitgliedsrechte bleiben bis zur Entscheidung der Schiedskommission bestehen.
 
+## Grundsätze der Zusammenarbeit
+
+. Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen formuliert.
+. Die Vereinigung will jedem Mitglied, unabhängig von persönlichen Einschränkungen hinsichtlich Raum und Zeit und mögliche Einschränkungen, eine umfassende Teilnahme an der Meinungs- und Willensbildung ermöglichen. Daher treten die Organe grundsätzlich online zusammen und tagen grundsätzlich ständig.
+. Die Mitglieder verwenden technische Systeme um die -- bevozugt asynchrone -- Zusammenarbeit, sowie die Meinungs- und Willensbildung zu ermöglichen. Die dafür notwendigen technischen System werden von der Vereinigung zur Verfügung gestellt.
+. Jedes Organ kann sich eine Moderation bestimmen, die Verfahrensabläufe vorschlägt, überwacht und moderativ in den Meinungs- und Willensbildungsprozess eingreifen kann.
+. Ein Organ kann beschließen, ausnahmsweise zur Behandlung einzelner Sachverhalte zeitlich und räumlich zusammenzutreten.
+. Ein Organ tritt zur Stimmabgabe bei geheimen Wahlen an einer oder mehreren über das Tätigkeitsgebiet der jeweiligen Gliederung verteilten Wahlurnen zusammen.
+. Die Mitglieder eines Organs sind an der aktiven Mitarbeit verpflichtet, es liegt in ihrer Verantwortung an Diskussionen und der Beschlussfassung teilzunehmen. 
+. Sofern das Organ keine abweichenden Regeln getroffen hat,  gelten die folgenden Abstimmungsregeln zur Beschlussfassung:
+* Eine Beschlussvorlage muss mindestens 3 Werktage (72h) zur Debatte stehen, damit allen die Möglichkeit gegeben ist, daran teilzunehmen.
+* Vorschläge zu Verfahrensweisen müssen mindestens 5 Werktage diskutiert und danach 5 Werktage abgestimmt werden können (also insg. mind 10 Werktage Zeit vergehen), damit alle Aspekte in Ruhe bedacht und abgewogen werden können.
+* Beschlüsse können auch vorher abgeschlossen werden, sofern alle Mitglieder an der Abstimmung teilgenommen haben.
+* Wenn mehr dafür als dagegen gestimmt haben, gilt ein Antrag als angenommen und nach Abschluss der Abstimmung als sofort gültig.
+
+## Beteiligungsförderung
+
+. Die politische Willensbildung von Frauen, jungen Menschen und Menschen mit Diskriminierungserfahrung wird aktiv gefördert. Es ist Ziel der Vereinigung, dass keine Personen diskriminiert oder in ihrer politischen Arbeit behindert werden. Frauen, junge Menschen und Menschen mit Diskriminierungserfahrung haben das Recht, innerhalb der Vereinigun eigene Strukturen aufzubauen und eigene Arbeitsgruppen einzuberufen.
+. Diskriminierte Menschen sind Mensch die aufgrund von Rassismus, ihrer Behinderung, ihrer sexuellen Orientierung oder ihrer Geschlechtsidentität, auch jenseits binärer Geschlechternormen, Diskriminierungserfahrungen gemacht haben. Frauen sind Menschen, die von der Gesellschaft nicht als normative Männer betrachtet werden. Junge Menschen sind Menschen, die das 25. Lebensjahr noch nicht vollendet haben.
+. In allen Versammlungen wird eine getrennte Redeliste für Frauen geführt. Unter der Voraussetzung entsprechender Wortmeldungen wird mindestens jeder zweite Redebeitrag von dieser Redeliste aufgerufen.
+. Bei allen gewählten Organen ist auf einen Anteil von mindestens 50% Frauen, 25% diskriminierte Menschen und 15% junge Menschen hinzuwirken, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
+. Bei der Aufstellung von Wahllisten ist der erste Platz und dann mindestens jeder zweite Platz an eine Frau zu vergeben, der spätestens dritte und dann mindestens jeder vierte Platz an einen diskriminierten Menschen und spätestens der fünfte und dann jeder vierte Platz an einen jungen Menschen zu vergeben, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
+. Diese Quotierungen sind auch bei einer Blockwahlvorschlägen einzuhalten.
+. Der Absatz zur Beteiligungsförderung kann nur mit einem 2/3-Beschluss der Vollversammlung verändert werden.
+
+
 ## Organe der Vereinigung
-Organe der Vereinigung sind die Vollversammlung, der Koordinierungsausschuss, die Schiedskommission, die Revisionskommission und die Arbeitskreise.
+Organe der Vereinigung sind die Vollversammlung, der Koordinierungsausschuss, die Schiedskommission, die Kassenrevision und die Arbeitskreise.
 
 ## Die Vollversammlung
-. Die Vollversammlung ist die Mitgliederversammlung der Vereinigung. Sie ist das höchste Organ der Vereinignung. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung der Vereinigung betreffen. Die Vollversammlung findet mindestens einmal im Jahr statt. MandatsträgerInnen sind verpflichtet an der Vollversammlung teilzunehmen.
-. Sie entscheidet über die Satzung und deren Änderung mit einer Zweidrittelmehrheit der anwesenden Mitglieder. Für alle anderen Beschlüsse, ausgenommen der Zweckänderung, genügt die einfache Mehrheit.
-. Sie beschließt über Anträge, politische Ausrichtung und Programme.
-. Sie nimmt Berichte der kommunalen Mandatsträger entgegen und führt kommunalpolitische Grundsatzdiskussionen.
-. Die Vollversammlung wählt eineN SchatzmeisterIn zur Verwaltung der Finanzen der Vereinigung. Sie kann zur Unterstützung eineN stellvertretendeN SchatzmeisterIn wählen.
-. Sie legt die Größe und Amtszeit des Koordinierungsausschusses fest und wählt diesen. Der Anteil der Frauen im Koordinierungsausschuss muss dabei mindestens dem Anteil der Frauen in der Vereinigung entsprechen. Diese Quotierung kann von der Vollversammlung aufgehoben werden.
-. Sie legt die Größe und die Amtzeit der Schiedskommission und der Kassenrevision fest und wählt diese. Die Schiedskommission besteht aus mindestens drei Mitgliedern. Die Mitglieder der Schiedskommission dürfen nicht gleichzeitig Mitglied des Koordinierungsausschusses sein. In der Schiedskommission müssen Frauen mindestens entsprechend ihres Anteils in der Mitgliedschaft vertreten sein. Diese Quotierung kann von der Vollversammlung aufgehoben werden.
+. Die Vollversammlung ist die Mitgliederversammlung der Vereinigung. Sie ist das höchste Organ der Vereinignung. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung der Vereinigung betreffen. MandatsträgerInnen sind verpflichtet an der Vollversammlung teilzunehmen.
+. Sie entscheidet über die Satzung und deren Änderung. Sofern ein Absatz der Satzung keine abweichende Regelung vorsieht, genügen für alle Beschlüsse die einfache Mehrheit der abgebenen Stimmen.
+. Sie beschließt über Anträge, politische Ausrichtung und Programme und führt politische Grundsatzdiskussionen.
+. Sie nimmt Berichte der MandatsträgerInnen entgegen.
 . Sie nimmt einen Rechenschaftsbericht über die Finanzen der Vereinigung entgegen und entscheidet über die Rechtmäßigkeit der Ausgaben.
-. Die Vollversammlung wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung und eines Antragsschlusses schriftlich einberufen.Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der Mitgliedsorganisationen und die Einzelmitglieder spätestens 14 Tage vor einer Vollversammlung den Einladungstext vom Koordinierungsausschuss bekommen haben. Neu-, Nach- und Abwahlen können nur stattfinden, wenn sie im Einladungstext angekündigt waren oder im Rahmen eines Antrags eingereicht wurden.
-. Die Vollversammlung ist beschlussfähig, wenn zu ihr ordnungsgemäß einberufen wurde.
-. Die Vollversammlung kann als Wahlversammlung zur Aufstellung von KandidatInnen fungieren, wenn die Wahl in der schriftlichen Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des bayerischen Kommunalwahlgesetzes erfüllen.
-. Die Vollversammlung muss innerhalb eines Monats einberufen werden, wenn mindestens zehn Prozent der Mitglieder dies schriftlich gegenüber dem Koordinierungsausschuss beantragen.
+. Sie legt die Größe und Amtszeit des Koordinierungsausschusses fest und wählt diesen. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind in allen Fällen einzuhalten.
+. Sie legt die Größe und die Amtzeit der Schiedskommission und der Kassenrevision fest und wählt diese. Die Schiedskommission besteht aus mindestens drei Mitgliedern. Die Mitglieder der Schiedskommission dürfen nicht gleichzeitig Mitglied des Koordinierungsausschusses sein. In der Schiedskommission müssen Frauen mindestens entsprechend ihres Anteils in der Mitgliedschaft vertreten sein. Die Quotierungen zur Vielfalts- und Jugendförderung sind in bestmöglich einzuhalten.
+. Sie tagt grundsätzlich asynchron online und dauerhaft. Sie bestimmt eine Moderation, die die Durchführung leitet.
+. Für Wahlen kann die Vollversammlung auch räumlich zusammen kommen. Dafür wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung schriftlich per E-Mail einberufen. Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der Mitgliedsorganisationen und die Einzelmitglieder spätestens 14 Tage vor dem Zusammenkommen den Einladungstext vom Koordinierungsausschuss bekommen haben. Neu-, Nach- und Abwahlen können nur stattfinden, wenn sie im Einladungstext angekündigt waren oder im Rahmen eines Antrags eingereicht wurden.
+. Für ein räumliches Zusammenkommen der Vollversammlung ist die ständige online Versammmlung unterbrochen. Das Zusammenkommen der Vollversammlung ist beschlussfähig, wenn zu ihr ordnungsgemäß einberufen wurde.
+. Eine räumlich zusammengekommene Vollversammlung kann als Wahlversammlung zur Aufstellung von KandidatInnen fungieren, wenn die Wahl in der Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des jeweiligen Kommunalwahlgesetzes erfüllen.
 
 ## Der Koordinierungsausschuss
-. Der Koordinierungsausschuss vertritt den Verein rechtlich und nimmt alle Funktionen eines Vorstands gemäß §26 BGB wahr.
-. Der Koordinierungsausschuss führt den Verein.
-. Er tagt mindestens einmal im Monat mitgliederoffen.
+. Der Koordinierungsausschuss vertritt die Vereinigung rechtlich und nimmt alle Funktionen eines Vorstands gemäß §26 BGB wahr.
+. Der Koordinierungsausschuss führt die Vereingung.
+. Er bestimmt aus seiner Mitte eineN SchatzmeisterIn.
+. Der Koordinierungsausschuss tagt online und dauerhaft.
 . Zu seinen Aufgaben gehören u. a.:
 
 * die Umsetzung der Beschlüsse der Vollversammlung
@@ -104,19 +130,19 @@ Organe der Vereinigung sind die Vollversammlung, der Koordinierungsausschuss, di
 * die Koordination zwischen den Arbeitskreisen.
 . Er ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist.
 . Der Koordinierungsausschuss kann Entscheidungen finanzieller Art nur im Rahmen der Mittel der Vereinigung oder aufgrund eines Beschlusses der Vollversammlung treffen.
-. Der Koordinierungsausschuss entscheidet über die Anerkennung von Stadtteilgruppen und Arbeitskreisen sowie über die Zusammenarbeit mit Interessengruppen. Eine Bestätigung erfolgt durch die Vollversammlung.
+. Der Koordinierungsausschuss entscheidet über die Anerkennung von Untergliederungen und Arbeitskreisen sowie über die Zusammenarbeit mit Interessengruppen. Eine Bestätigung erfolgt durch die Vollversammlung.
 . Er kann Aufgaben auf Widerruf an Arbeitskreise oder Einzelpersonen delegieren.
 . Der Koordinierungsausschuss lädt zur Aufstellungsversammlung ein. Die Einladung und der Inhalt der Aufstellungsversammlung entsprechen den Kriterien des Kommunalwahlrechts.
 
 ## Die Schiedskommission
-. Die Schiedskommission ist beschlussfähig, wenn zu ihren Sitzungen ordentlich mit einer Woche Vorlauf eingeladen wurde.
+. Die Schiedskommission tagt dauerhaft online.
 . Die Schiedskommission wird nur auf Antrag des Koordinierungsausschusses, der Vollversammlung oder eines Mitglieds, das selbst von einem Vorgang direkt und erheblich betroffen ist, tätig.
 . Die Schiedskommission entscheidet mit Zweidrittelmehrheit über Verstöße gegen die Satzung.
 
 ## Arbeitskreise
-. Arbeitskreise werden auf Beschluss der Vollversammlung oder des Koordinierungsausschusses gegründet. Sie arbeiten zu einem bestimmten Thema.
-. Sie geben sich selbst eine demokratische Struktur, die Ihren Anforderungen entspricht, sie benennen eine Ansprechperson.
-. Sie sind allen Mitgliedern zugänglich.
+. Arbeitskreise werden auf Beschluss der Vollversammlung oder des Koordinierungsausschusses gegründet. Sie arbeiten zu einem bestimmten Thema, Arbeitsbereich oder Projekt.
+. Sie geben sich selbst eine demokratische Struktur, die ihren Anforderungen entspricht, sie benennen eine Ansprechperson.
+. Sie sind den Mitgliedern zugänglich. Die Mitarbeit von Einzellpersonen kann aber aufgrund von Mehrheitsbeschlüssen der anderen Mitglieder oder auf Beschlluss des Koordinationsausschuss eingeschränkt werden.
 . Die Arbeitskreise können Gäste einladen.
 
 ## Vereinigungsmittel
@@ -127,7 +153,7 @@ Organe der Vereinigung sind die Vollversammlung, der Koordinierungsausschuss, di
 . Über diese Mittel hat der Koordinierungsausschuss die Finanzhoheit. Darüber hinausgehender Finanzbedarf ist anlassbezogen von den Mitgliedsvereinen und –Parteien fallweise zu beschließen.
 
 ## Schluss- und Übergangsbestimmungen
-. Die Vereinigung kann aufgrund eines Beschlusses der Vollverstammlung mit einer zweidrittel-Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder als Untergliederung dieser erklärt zu werden reicht die einfache-Mehrheit der Vollversammlung.
+. Die Vereinigung kann aufgrund eines Beschlusses der Vollverstammlung mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit der Vollversammlung.
 +
 Löst sich die Vereinigung durch Verschmelzung mit einer anderen politischen Organisation auf, geht das Vermögen an diese über. In allen anderen Fällen geht das Vermögen an die Mitglieder zu gleichen Teilen (BGB § 45 ..
 . Sollte eine oder mehrere Bestimmungen dieser Satzung rechtsunwirksam sein, so berührt dies nicht die Gültigkeit der übrigen Bestimmungen. Soweit Bestimmungen in dieser Satzung unwirksam sein sollten oder die Satzung eine Regelungslücke enthalten sollte, sind die Vorschriften des BGB über den eingetragenen Verein entsprechend anzuwenden.
