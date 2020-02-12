@@ -8,7 +8,7 @@
 
 * [ ] übernommene Version überarbeiten
 ** [x] format anpassen
-** [ ] namen anpassbar machen
+** [x] namen anpassbar machen
 * [ ] Klimakonsens festschreiben
 * [ ] Vielfaltsförderung festschreiben
 * [ ] Blockwahlverfahren beschreiben, Quoten festlegen
@@ -21,33 +21,32 @@
 
 - [1] <https://linke-liste-nürnberg.de/satzung-der-linken-liste-nuernberg/>
 - [2] <https://bewegung.jetzt/partei/satzung/>
-- [3] <https://liquidlabs.org/satzung>
+- [3] <https://bewegung.jetzt/ethik-kodex/?
+- [4] <https://liquidlabs.org/satzung>
 
 ---
 
 **Satzung**
 
 ## Name, Sitz
-. Der Verein führt den Namen „LINKE LISTE Nürnberg“
-. Die „LINKE LISTE Nürnberg“ ist eine Wählervereinigung gemäß Paragraph Art. 24 . Satz 3 GLKrWG und ein nicht eingetragener Verein gemäß BGB. Der Verein kann aufgrund eines Beschlusses der Vollversammlung in das Vereinsregister eingetragen werden.
-. Die „LINKE LISTE Nürnberg“ ist begrenzt auf das Stadtgebiet Nürnberg.
-. Die „LINKE LISTE Nürnberg“ hat Ihren Sitz in Nürnberg.
+. Die Vereinigung führt den Namen „{{Name}}“
+/// hier den Namen der Vereinigung eintragen
+. Die Vereinigung ist eine Wählervereinigung gemäß Paragraph Art. 24 . Satz 3 GLKrWG und ein nicht eingetragener Verein gemäß BGB. Die Vereinigung kann aufgrund eines Beschlusses der Vollversammlung in das Vereinsregister eingetragen werden.
+. Die Vereinigung ist begrenzt auf das Einzugsgebiet {{Ort}}.
+. Die Vereinigung hat Ihren Sitz in {{Ort}}.
 
 ## Ziel und Zweck
-. Die „LINKE LISTE Nürnberg“ ist eine Wählervereinigung und politische Vereinigung.
-. Zweck des Vereins ist die Mitwirkung am politischen Willensbildungsprozess in Nürnberg und die Teilnahme an den kommunalen Wahlen.
+. Die Vereinigung ist eine Wählervereinigung und politische Vereinigung.
+. Zweck der Vereinignung ist die Mitwirkung am politischen Willensbildungsprozess und die Teilnahme an den kommunalen Wahlen.
 . Der Satzungszweck wird verwirklicht durch
    * die Durchführung von Vollversammlungen, politischen Veranstaltungen und öffentlichen Aktionen
    * die Abgabe von politischen Erklärungen und Publikationen
-   * Anträge und Anfragen im Stadtrat
-. Der Verein bekennt sich zu den kommunalpolitischen Eckpunkten. Diese sind:
+   * Anträge und Anfragen auf kommunaler Ebene
+. Die Vereinigung bekennt sich zu den kommunalpolitischen Eckpunkten. Diese sind:
 
-* Wir stimmen keiner Privatisierung (Verkauf, Cross Border-Leasing-System oder Private-Partnership-Beteiligung o. ä.) von öffentlichem Eigentum zu. Wer öffentliches Eigentum verkauft oder es in Hände von Spekulanten legt, enteignet die Bevölkerung.
-* Wir treten entschieden gegen jeglichen Sozialabbau ein. Mit uns sind weitere Kürzungen der Stadt weder bei Kindern und Jugendlichen noch in anderen sozialen Bereichen oder bei der Bildung zu machen.
-* Wir stimmen im Stadtrat keiner Abwälzung der Lasten auf die Mehrheit der Nürnberger BürgerInnen durch Gebührenerhöhungen im Freizeit- und Kulturbereich oder im öffentlichen Nahverkehr zu.
 * In der „Stadt des Friedens und der Menschenrechte“ ist es für uns Linke selbstverständlich, gegen jede Art von Diskriminierung, gegen Rassismus, Antisemitismus und Ausländerfeindlichkeit aufzutreten. Jeder Versuch von alten und neuen Nazis in der Öffentlichkeit noch stärker Fuß zu fassen, muss deshalb zurückgewiesen werden
-* Wir legen alle Bezüge, die wir im Zusammenhang mit Stadtratsmandaten erhalten, offen. Unsere StadträtInnen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen dem Verein für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
-* Wir handeln entsprechend unserem Programm und nutzen unsere Mandate um gemeinsam mit Betroffenen öffentlichen Druck zu entwickeln – in und außerhalb des Stadtrats! Dazu halten wir regelmäßig offene Versammlungen mit unseren Stadtratsabgeordneten ab, in denen vergangene Stadtratsarbeit diskutiert und künftige geplant wird.
+* Wir legen alle Bezüge, die wir im Zusammenhang mit Mandaten erhalten, offen. Unsere StadträtInnen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen der Vereinigung für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
+* Wir handeln entsprechend unserem Programm und nutzen unsere Mandate um gemeinsam mit Betroffenen öffentlichen Druck zu entwickeln! Dazu halten wir regelmäßig offene Versammlungen mit unseren Stadtratsabgeordneten ab, in denen vergangene Stadtratsarbeit diskutiert und künftige geplant wird.
 . zur Sozialbindung des Eigentums, wie sie in Artikel 14 Absatz 2 des Grundgesetzes der Bundesrepublik Deutschland definiert ist.
 . zum Vorrang der fundamentalen Menschenrechte für alle Menschen, wie sie in der Allgemeinen Erklärung der Menschenrechte in der Generalversammlung der Vereinten Nationen am 10.12.1948 verkündet wurden – insbesondere des Rechts auf Gesundheit, körperliche Unversehrtheit, ein menschenwürdiges Leben, soziale Sicherheit, Arbeit und gleichen Lohn für gleiche Arbeit.
 . zum Vorrang der natürlichen Lebensgrundlagen und ihres Schutzes gegenüber damit unvereinbaren wirtschaftlichen und politischen Interessen.
@@ -56,38 +55,38 @@
 . zur Verteidigung und zum Ausbau der kommunalen Demokratie durch die Stärkung des Stadtparlaments, sowie der Verbesserung der Mitspracherechte der Beiräte und BürgerInnen, z.B. in Form von Beteiligungshaushalten und der Förderung direkter Mitwirkungsrechte (Volksbefragungen und –entscheide auf kommunaler Ebene).
 
 ## Mitgliedschaft
-. Mitglieder von der „LINKE LISTE Nürnberg“ sollen sich aktiv an der Umsetzung des Vereinszwecks beteiligen.
+. Mitglieder der Vereinigung sollen sich aktiv an der Umsetzung des Vereinigungszwecks beteiligen.
 . Mitglieder können werden:
-.. Vereine (-Gliederungen) und Parteien (-Gliederungen) mit politischem Bezug zu Nürnberg
+.. Vereine (-Gliederungen) und Parteien (-Gliederungen) mit politischem Bezug zum Einzugsgebiet
 +
-Die Mitglieder dieser Vereine und Parteien sind automatisch Mitglied von „LINKE LISTE Nürnberg“, außer sie erklären gegenüber ihren Vorständen schriftlich, dass sie daran nicht teilhaben wollen. Der Verzicht auf die Mitgliedschaft bei „LINKE LISTE Nürnberg“ berührt den Status in ihrem jeweiligen Verein oder Partei nicht.
-.. natürliche Personen, diedas vierzehnte Lebensjahr vollendet haben, Wohnort, Arbeitsstelle oder Lebensmittelpunkt in Nürnberg haben und Satzung und Programm anerkennen
+Die Mitglieder dieser Vereine und Parteien sind automatisch Mitglied der Vereinigung, außer sie erklären gegenüber ihren Vorständen schriftlich, dass sie daran nicht teilhaben wollen. Der Verzicht auf die Mitgliedschaft bei der Vereinigung berührt den Status in ihrem jeweiligen Verein oder Partei nicht.
+.. natürliche Personen, die das vierzehnte Lebensjahr vollendet haben, Wohnort, Arbeitsstelle oder Lebensmittelpunkt im Einzugsgebiet der Vereinigung haben und Satzung und Programm anerkennen
 . Mitglied kann nicht sein, wer
-.. einer Organisation angehört, deren Ziele im Widerspruch zu den Zielen von „LINKE LISTE Nürnberg“ steht. Die Feststellung der Unvereinbarkeit trifft die Vollversammlung mit absoluter Mehrheit.
+.. einer Organisation angehört, deren Ziele im Widerspruch zu den Zielen der Vereinigung steht. Die Feststellung der Unvereinbarkeit trifft die Vollversammlung mit absoluter Mehrheit.
 .. einer Partei, Organisation oder Vereinigung angehört oder sich schriftlich zu einer solchen bekennt, die rassistisches, antisemitisches oder antidemokratisches Gedankengut verbreitet hat.
-. Die Mitgliedschaft beginnt mit der Aufnahme durch den Koordinierungsausschuss des Vereins. Eine Bestätigung erfolgt durch die Vollversammlung.
-. Der Verein führt eine zentrale Mitgliederdatei der Einzelmitglieder. Diese darf nur die Daten enthalten, die für die Zwecke des Vereins nötig sind. Auf eine strikte Einhaltung des Bundesdatenschutzgesetzes ist zu achten. Alle Mitglieder, die über die Mitgliedschaft einer Mitgliedsorganisation Mitglied sind, werden über ihre Organisation erfasst und betreut.
+. Die Mitgliedschaft beginnt mit der Aufnahme durch den Koordinierungsausschuss der Vereinigung. Eine Bestätigung erfolgt durch die Vollversammlung.
+. Die Vereinigung führt eine zentrale Mitgliederdatei der Einzelmitglieder. Diese darf nur die Daten enthalten, die für die Zwecke der Vereinigung nötig sind. Auf eine strikte Einhaltung des Bundesdatenschutzgesetzes ist zu achten. Alle Mitglieder, die über die Mitgliedschaft einer Mitgliedsorganisation Mitglied sind, werden über ihre Organisation erfasst und betreut.
 
-Jede Mitgliedsorganisation von „LINKE LISTE Nürnberg“ benennt eine Informationsperson und eine Stellvertretung. Sie haben die Aufgabe, Informationen, Einladungen zu Vollversammlungen, Kommunalpolitischen Foren und andere Einladungen zu Veranstaltungen von „LINKE LISTE Nürnberg“ an die Mitglieder ihrer Organisation, die Mitglieder in “LINKE LISTE Nürnberg“ sind, weiter zu leiten.
+Jede Mitgliedsorganisation des Vereiningung benennt eine Informationsperson und eine Stellvertretung. Sie haben die Aufgabe, Informationen, Einladungen zu Vollversammlungen, Kommunalpolitischen Foren und andere Einladungen zu Veranstaltungen der Vereinigung an die Mitglieder ihrer Organisation, die Mitglieder in der Vereinigug sind, weiter zu leiten.
 
 ## Beendigung der Mitgliedschaft
 . Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
-. Der Austritt aus „LINKE LISTE Nürnberg“ ist jederzeit zulässig. Er erfolgt durch eine schriftliche Erklärung gegenüber dem Koordinierungsausschuss.
-. Ein Mitglied kann ausgeschlossen werden, wenn es vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze des Programms verstoßen oder dem Verein erheblichen Schaden zugefügt hat. Eine Betätigung nach 3 . a) ist ein solch schädigendes Verhalten und begründet einen Ausschluss.
+. Der Austritt aus der Vereinigung ist jederzeit zulässig. Er erfolgt durch eine schriftliche Erklärung gegenüber dem Koordinierungsausschuss.
+. Ein Mitglied kann ausgeschlossen werden, wenn es vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze des Programms verstoßen oder der Vereinigung erheblichen Schaden zugefügt hat. Eine Betätigung nach 3 . a) ist ein solch schädigendes Verhalten und begründet einen Ausschluss.
 . Der Ausschluss kann nur als Folge eines Schiedsverfahrens erfolgen. Bei Einleitung eines Schiedsverfahrens entscheidet die Schiedskommission endgültig innerhalb eines Monats. Die Mitgliedsrechte bleiben bis zur Entscheidung der Schiedskommission bestehen.
 
-## Organe des Vereins
-Organe des Vereins sind die Vollversammlung, der Koordinierungsausschuss, die Schiedskommission, die Revisionskommission und die Arbeitskreise.
+## Organe der Vereinigung
+Organe der Vereinigung sind die Vollversammlung, der Koordinierungsausschuss, die Schiedskommission, die Revisionskommission und die Arbeitskreise.
 
 ## Die Vollversammlung
-. Die Vollversammlung ist die Mitgliederversammlung des Vereins. Sie ist das höchste Organ des Vereins. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung des Vereins betreffen. Die Vollversammlung findet mindestens einmal im Jahr statt. MandatsträgerInnen sind verpflichtet an der Vollversammlung teilzunehmen.
+. Die Vollversammlung ist die Mitgliederversammlung der Vereinigung. Sie ist das höchste Organ der Vereinignung. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung der Vereinigung betreffen. Die Vollversammlung findet mindestens einmal im Jahr statt. MandatsträgerInnen sind verpflichtet an der Vollversammlung teilzunehmen.
 . Sie entscheidet über die Satzung und deren Änderung mit einer Zweidrittelmehrheit der anwesenden Mitglieder. Für alle anderen Beschlüsse, ausgenommen der Zweckänderung, genügt die einfache Mehrheit.
 . Sie beschließt über Anträge, politische Ausrichtung und Programme.
 . Sie nimmt Berichte der kommunalen Mandatsträger entgegen und führt kommunalpolitische Grundsatzdiskussionen.
-. Die Vollversammlung wählt eineN SchatzmeisterIn zur Verwaltung der Finanzen des Vereins. Sie kann zur Unterstützung eineN stellvertretendeN SchatzmeisterIn wählen.
-. Sie legt die Größe und Amtszeit des Koordinierungsausschusses fest und wählt diesen. Der Anteil der Frauen im Koordinierungsausschuss muss dabei mindestens dem Anteil der Frauen im Verein entsprechen. Diese Quotierung kann von der Vollversammlung aufgehoben werden.
+. Die Vollversammlung wählt eineN SchatzmeisterIn zur Verwaltung der Finanzen der Vereinigung. Sie kann zur Unterstützung eineN stellvertretendeN SchatzmeisterIn wählen.
+. Sie legt die Größe und Amtszeit des Koordinierungsausschusses fest und wählt diesen. Der Anteil der Frauen im Koordinierungsausschuss muss dabei mindestens dem Anteil der Frauen in der Vereinigung entsprechen. Diese Quotierung kann von der Vollversammlung aufgehoben werden.
 . Sie legt die Größe und die Amtzeit der Schiedskommission und der Kassenrevision fest und wählt diese. Die Schiedskommission besteht aus mindestens drei Mitgliedern. Die Mitglieder der Schiedskommission dürfen nicht gleichzeitig Mitglied des Koordinierungsausschusses sein. In der Schiedskommission müssen Frauen mindestens entsprechend ihres Anteils in der Mitgliedschaft vertreten sein. Diese Quotierung kann von der Vollversammlung aufgehoben werden.
-. Sie nimmt einen Rechenschaftsbericht über die Finanzen des Vereins entgegen und entscheidet über die Rechtmäßigkeit der Ausgaben.
+. Sie nimmt einen Rechenschaftsbericht über die Finanzen der Vereinigung entgegen und entscheidet über die Rechtmäßigkeit der Ausgaben.
 . Die Vollversammlung wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung und eines Antragsschlusses schriftlich einberufen.Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der Mitgliedsorganisationen und die Einzelmitglieder spätestens 14 Tage vor einer Vollversammlung den Einladungstext vom Koordinierungsausschuss bekommen haben. Neu-, Nach- und Abwahlen können nur stattfinden, wenn sie im Einladungstext angekündigt waren oder im Rahmen eines Antrags eingereicht wurden.
 . Die Vollversammlung ist beschlussfähig, wenn zu ihr ordnungsgemäß einberufen wurde.
 . Die Vollversammlung kann als Wahlversammlung zur Aufstellung von KandidatInnen fungieren, wenn die Wahl in der schriftlichen Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des bayerischen Kommunalwahlgesetzes erfüllen.
@@ -104,7 +103,7 @@ Organe des Vereins sind die Vollversammlung, der Koordinierungsausschuss, die Sc
 * die Abgabe von Erklärungen zu aktuellen politischen Fragen
 * die Koordination zwischen den Arbeitskreisen.
 . Er ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist.
-. Der Koordinierungsausschuss kann Entscheidungen finanzieller Art nur im Rahmen der Mittel des Vereins oder aufgrund eines Beschlusses der Vollversammlung treffen.
+. Der Koordinierungsausschuss kann Entscheidungen finanzieller Art nur im Rahmen der Mittel der Vereinigung oder aufgrund eines Beschlusses der Vollversammlung treffen.
 . Der Koordinierungsausschuss entscheidet über die Anerkennung von Stadtteilgruppen und Arbeitskreisen sowie über die Zusammenarbeit mit Interessengruppen. Eine Bestätigung erfolgt durch die Vollversammlung.
 . Er kann Aufgaben auf Widerruf an Arbeitskreise oder Einzelpersonen delegieren.
 . Der Koordinierungsausschuss lädt zur Aufstellungsversammlung ein. Die Einladung und der Inhalt der Aufstellungsversammlung entsprechen den Kriterien des Kommunalwahlrechts.
@@ -112,7 +111,7 @@ Organe des Vereins sind die Vollversammlung, der Koordinierungsausschuss, die Sc
 ## Die Schiedskommission
 . Die Schiedskommission ist beschlussfähig, wenn zu ihren Sitzungen ordentlich mit einer Woche Vorlauf eingeladen wurde.
 . Die Schiedskommission wird nur auf Antrag des Koordinierungsausschusses, der Vollversammlung oder eines Mitglieds, das selbst von einem Vorgang direkt und erheblich betroffen ist, tätig.
-. Die Schiedskommission entscheidet mit Zweidrittelmehrheit über Verstöße gegen die Vereinssatzung.
+. Die Schiedskommission entscheidet mit Zweidrittelmehrheit über Verstöße gegen die Satzung.
 
 ## Arbeitskreise
 . Arbeitskreise werden auf Beschluss der Vollversammlung oder des Koordinierungsausschusses gegründet. Sie arbeiten zu einem bestimmten Thema.
@@ -120,13 +119,15 @@ Organe des Vereins sind die Vollversammlung, der Koordinierungsausschuss, die Sc
 . Sie sind allen Mitgliedern zugänglich.
 . Die Arbeitskreise können Gäste einladen.
 
-## Vereinsmittel
-. Für Mitglieder von Mitgliedsvereinen und -parteien ist der Beitrag für die „LINKE LISTE Nürnberg“ mit dem satzungsgemäßen Vereins- bzw. Parteibeitrag für ihren jeweiligen Verein oder Partei abgegolten. Im Gegenzug tragen die Vereine und Parteien zu den laufenden Kosten von „LINKE LISTE Nürnberg“ bei.
-. Die Höhe des Mitgliedsbeitrags für alle natürlichen Mitglieder von „LINKE LISTE Nürnberg“ regelt eine Beitragsordnung, die die Vollversammlung beschließt.
+## Vereinigungsmittel
+. Für Mitglieder von Mitgliedsvereinen und -parteien ist der Mitgliedsbeitrag mit dem satzungsgemäßen Vereins- bzw. Parteibeitrag für ihren jeweiligen Verein oder Partei abgegolten. Im Gegenzug tragen die Mitgliedsvereine und -Parteien zu den laufenden Kosten der Vereinigung bei.
+. Die Höhe des Mitgliedsbeitrags für alle natürlichen Mitglieder der Vereinigung regelt eine Beitragsordnung, die die Vollversammlung beschließt.
 . Der Mitgliedsbeitrag wird zentral über den Koordinierungsausschuss erhoben.
 . Zeichnungsberechtigt sind jeweils SchatzmeisterIn und stellvertretendeR SchatzmeisterIn. Gibt es keineN stellvertretendeN SchatzmeisterIn, bestimmt der Koordinierungsausschuss eineN zweiteN ZeichnungsberechtigteN aus seiner Mitte.
 . Über diese Mittel hat der Koordinierungsausschuss die Finanzhoheit. Darüber hinausgehender Finanzbedarf ist anlassbezogen von den Mitgliedsvereinen und –Parteien fallweise zu beschließen.
 
 ## Schluss- und Übergangsbestimmungen
-. Der Verein kann aufgrund eines Beschlusses mit zweidrittel-Mehrheit der Vollversammlung aufgelöst oder mit einer anderen politischen Organisation verschmolzen werden. Löst sich der Verein durch Verschmelzung mit einer anderen politischen Organisation auf, geht das Vermögen an diese über. In allen anderen Fällen geht das Vermögen an die Mitglieder zu gleichen Teilen (BGB § 45 ..
+. Die Vereinigung kann aufgrund eines Beschlusses der Vollverstammlung mit einer zweidrittel-Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder als Untergliederung dieser erklärt zu werden reicht die einfache-Mehrheit der Vollversammlung.
++
+Löst sich die Vereinigung durch Verschmelzung mit einer anderen politischen Organisation auf, geht das Vermögen an diese über. In allen anderen Fällen geht das Vermögen an die Mitglieder zu gleichen Teilen (BGB § 45 ..
 . Sollte eine oder mehrere Bestimmungen dieser Satzung rechtsunwirksam sein, so berührt dies nicht die Gültigkeit der übrigen Bestimmungen. Soweit Bestimmungen in dieser Satzung unwirksam sein sollten oder die Satzung eine Regelungslücke enthalten sollte, sind die Vorschriften des BGB über den eingetragenen Verein entsprechend anzuwenden.
