@@ -77,6 +77,7 @@ Jede Mitgliedsorganisation des Vereiningung benennt eine Informationsperson und 
 
 ## Grundsätze der Zusammenarbeit
 
+. Die Mitglieder pflegen einen wertschätzenden Umgang miteinder,der das Gemeinsame und den inneren Konsens sucht. Dabei ist aufeinander, insbesondere auf die Bedürfnisse betroffener und davon benachteiligter Menschen, einzugehen.
 . Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen formuliert.
 . Die Vereinigung will jedem Mitglied, unabhängig von persönlichen Einschränkungen hinsichtlich Raum und Zeit und mögliche Einschränkungen, eine umfassende Teilnahme an der Meinungs- und Willensbildung ermöglichen. Daher treten die Organe grundsätzlich online zusammen und tagen grundsätzlich ständig.
 . Die Mitglieder verwenden technische Systeme um die -- bevozugt asynchrone -- Zusammenarbeit, sowie die Meinungs- und Willensbildung zu ermöglichen. Die dafür notwendigen technischen System werden von der Vereinigung zur Verfügung gestellt. Die Daten auf diesen Systemen, und damit auch die Nutzerinnen-Daten, sind als öffentlich zu betrachten.
@@ -112,14 +113,14 @@ Organe der Vereinigung sind die ständige Vollversammlung, die Wahversammlung, d
 . Sie nimmt Berichte der Mandatsträger:innen entgegen.
 . Sie nimmt einen Rechenschaftsbericht über die Finanzen der Vereinigung entgegen und entscheidet über die Rechtmäßigkeit der Ausgaben.
 . Sie legt die Größe und Amtszeit des Koordinierungsausschusses,der Schiedskommision, der Kassenrevision fest.
-. Sie kann den Koordinationsausschuss verpflichten eine Wahlversammlung einzuberufen.
+. Sie kann den Koordinierungsausschuss verpflichten eine Wahlversammlung einzuberufen.
 
 ## Die Wahlversammlung
 . Die Wahlversammlung ist das räumliche Zusammenkommen der Mitgliederversammlung um Personenwahlen durchzuführen.
 . Dafür wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung und den zu wählenden Ämtern schriftlich per E-Mail einberufen. Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der Mitgliedsorganisationen und die Einzelmitglieder spätestens 14 Tage vor dem Zusammenkommen den Einladungstext vom Koordinierungsausschuss bekommen haben. 
 . Während der Wahlversammlung ist die ständige online Versammmlung unterbrochen. Die Wahlversammlung ist beschlussfähig, wenn zu ihr ordnungsgemäß einberufen wurde.
 . Die Wahlversammlung wählt:
- - Den Koordinationsausschuss. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind in allen Fällen einzuhalten.
+ - Den Koordinierungsausschuss. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind in allen Fällen einzuhalten.
  - Die Schiedskommission. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind einzuhalten, einzelllne Regelungen können vorrübergehend ausgesetzt werden, wenn diese nicht eingehalten werden können. Ein Aussetzen aller Quotierungsanforderungen ist nicht möglich.
  - Die Kassenrevision. Dies kann auch per Blockwahl geschehen.
 . Die Wahlversammlung kann als Aufstellungsversammlung von Kandidat:innen fungieren, wenn die Wahl in der Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des jeweiligen Kommunalwahlgesetzes erfüllen.
@@ -135,6 +136,7 @@ Organe der Vereinigung sind die ständige Vollversammlung, die Wahversammlung, d
 * Planung und Koordination der politischen Arbeit
 * die Abgabe von Erklärungen zu aktuellen politischen Fragen
 * die Koordination zwischen den Arbeitskreisen.
+* Veröffentlichung der jeweils gültigen Satzung und Beschlusslage.
 . Er ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist.
 . Der Koordinierungsausschuss kann Entscheidungen finanzieller Art nur im Rahmen der Mittel der Vereinigung oder aufgrund eines Beschlusses der Vollversammlung treffen.
 . Der Koordinierungsausschuss entscheidet über die Anerkennung von Untergliederungen und Arbeitskreisen sowie über die Zusammenarbeit mit Interessengruppen. Eine Bestätigung erfolgt durch die Vollversammlung.
@@ -150,7 +152,7 @@ Organe der Vereinigung sind die ständige Vollversammlung, die Wahversammlung, d
 ## Arbeitskreise
 . Arbeitskreise werden auf Beschluss der Vollversammlung oder des Koordinierungsausschusses gegründet. Sie arbeiten zu einem bestimmten Thema, Arbeitsbereich oder Projekt.
 . Sie geben sich selbst eine demokratische Struktur, die ihren Anforderungen entspricht, sie benennen eine Ansprechperson.
-. Sie sind den Mitgliedern zugänglich. Die Mitarbeit von Einzellpersonen kann aber aufgrund von Mehrheitsbeschlüssen der anderen Mitglieder oder auf Beschlluss des Koordinationsausschuss eingeschränkt werden.
+. Sie sind den Mitgliedern zugänglich. Die Mitarbeit von Einzellpersonen kann aber aufgrund von Mehrheitsbeschlüssen der anderen Mitglieder oder auf Beschlluss des Koordinierungsausschuss eingeschränkt werden.
 . Die Arbeitskreise können Gäste einladen.
 
 ## Vereinigungsmittel
