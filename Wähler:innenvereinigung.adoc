@@ -1,10 +1,35 @@
 # Satzungsvorlage für eine Wähler:innenvereinigung
-:sectnums:
+Benjamin Kampmann <ben@gnunicorn.org>, [Radikal*](https://radikal.jetzt)
+v0.9, 14.02.2020
+:sectanchors:
+:lang: de
+:toc:
 :pagelayout: docs
 
-**Vorwort** ...
+## Einleitung
 
-**ToDo's**:
+### Vorwort
+
+Dies ist die Vorlage für eine moderne, progressive Wähler:innenvereinigung auf Komunaler Ebene. Diese verfügt über einige Besonderheit, einige davon können im nachhinhein nicht mehr so einfach eingefügt werden. So ist diese Organisation
+
+🌐 Online-first:: Alle Gremien, inklusive des Plenum, tagen dauerhaft und sind damit jederzeit beschlussfähig, was durch den Einsatz von Online Tools (wir empfehlen Loomio) ermöglicht. Die Vollversammlung kommt nur zu Personenwahlen zusammen, alle Beschlüsse laufen über das Onine-Verfahren. 
+📝 Flexibel:: Die Antrags- und Beschlussshöhen sind absichtlich niedrig angesetzt, nur wenige Paragraphen genießen einen zusätzlichen Schutz durch eine höher Hürde als einen einfachen Mehrheitbeschluss. Dadurch kann die Satzung auch einfach iterativ der praktischen Arbeit angepast werden. Insbesonder auch darüber, ob sich diese Organistion anderen Organisationen anschließt.
+🤳 Anti-Ego:: Neben der klar formulierten Erwartungshaltung eines wertschätzenden Umgangs miteinander, sieht die Satzung auch einen Verhaltenskodex, Moderation, Rednerinnenlisten und Revisions-Gremien (Schiedsgericht) vor um Konflikte zu vermeinden und einen inklusiven Umgang der vielen Stimmen raum gibt, zu gestalten. Mandatsträger:innen sind zur Transparenz über die Einnahmen und Zurückspielen von Geldern selbstverpflichtet.
+🚀 Kollaborativ und Arbeitsorient:: ADie Aufgaben des Vorstands werden hier von einem Koordinierungsauschuss übernommen, die meiste inhaltliche und thematische Arbeit durch Arbeitsgruppen, die auch das Plenum selbst einberufen kann. Für alle Wahlen sind bereits Blockwahlen vorgesehen, damit sich hier gleich ganze Teams, die gut miteinander arbeiten können, zur Wahl stelllen können.
+🌈 Progressiv quotiert:: Gleichzeitig erkennt die Satzung die strukturelle Benachteiligung bestimmter Gruppen an und verfügt über ein progressives Modell mit der sich die Vereinigung zwingt dagegen auch strukturell vorzugehen, Benachteiligte und ihren Nachwuchs fördert und politische Stimme verleiht.
+🔐 DSGVO konform:: Als über ein Online Verfahren Abstimmende Organisation steht die Frage des Datenschutz auch mit auf dem Programm und wird von beginn an in der Satzung geklärt.
+🤝 mit politischen Konsens:: Um von vorneherein bestimmte Grabenkämpfe nicht zu führen und den Problemen aus dem Weg zu gehen, kommt die Satzung mit einem politischen Konsens (den wir empfehlen anzupassen!) und bestimmten Ausschlusskriterien der Mitgliedschaft.
+⛓ und dezentraler Mitgliederstruktur:: Das innovative Mitgliederstruktur-Modell dieser Vereinigung erlaubt es auch anderen Vereinen oder Parteien der Organisation beizutreten, wodurch deren Mitgieder automatisch auch Stimm- und Wahlberechtigte werden. Das erlaubt auf bestehende Strukturen aufzusetzen und eine Mitgliederinnen-Liste zu führen, die ansich dezentral gestaltet ist –- was wiederum die hemmschwelle der Beteiligung senkt und gleichzeitig die Einzellperson schützt.
+
+
+### Disclaimer
+[WARNING]
+====
+Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden Dokumenten zusammengestellt ist (siehe die Quellen), so kann für den Inhalt keine Gewähr oder Rechtssicherheit gegeben werden.
+====
+
+
+### ToDo's, Feedback & Support
 
 * [x] übernommene Version überarbeiten
 ** [x] format anpassen
@@ -16,9 +41,14 @@
 * [x] Konkretiesierung der "Demokratie" für Arbeitskreise
 * [x] Konkretesierung von Projekt- und dauerhaften Arbeitsgruppen
 * [x] Umwandlung und Auflösung
+* [x] Vorwort
+* [ ] Instituitionellle Mitglieder benennen, nur deren Annahme vom Plenum bestätigen lassen
+* [ ] Vollversammlung -> Plenum
+* [ ] Datenschutz bei Online-Teilnahme
+* [ ] Einzellmitglieder bei Abstimmungen und Wahlen
+* [ ] Quorum für Anträge
 
-**Quellen**:
-
+### Quellen
 - [1] <https://linke-liste-nürnberg.de/satzung-der-linken-liste-nuernberg/>
 - [2] <https://bewegung.jetzt/partei/satzung/>
 - [3] <https://bewegung.jetzt/ethik-kodex/?
@@ -26,8 +56,11 @@
 
 ---
 
-**Satzung**
+<<<
 
+# Satzung
+
+:sectnums:
 ## Name, Sitz
 . Die Vereinigung führt den Namen „{{Name}}“
 /// hier den Namen der Vereinigung eintragen
@@ -44,9 +77,10 @@
    * Anträge und Anfragen auf kommunaler Ebene
 . Die Vereinigung bekennt sich zu den kommunalpolitischen Eckpunkten. Diese sind:
 
-* In der „Stadt des Friedens und der Menschenrechte“ ist es für uns Linke selbstverständlich, gegen jede Art von Diskriminierung, gegen Rassismus, Antisemitismus und Ausländerfeindlichkeit aufzutreten. Jeder Versuch von alten und neuen Nazis in der Öffentlichkeit noch stärker Fuß zu fassen, muss deshalb zurückgewiesen werden
-* Wir legen alle Bezüge, die wir im Zusammenhang mit Mandaten erhalten, offen. Unsere Stadträt:innen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen der Vereinigung für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
-* Wir handeln entsprechend unserem Programm und nutzen unsere Mandate um gemeinsam mit Betroffenen öffentlichen Druck zu entwickeln! Dazu halten wir regelmäßig offene Versammlungen mit unseren Stadtratsabgeordneten ab, in denen vergangene Stadtratsarbeit diskutiert und künftige geplant wird.
+* Es ist für uns selbstverständlich, gegen jede Art von Diskriminierung, gegen Rassismus, Antisemitismus und Ausländerfeindlichkeit aufzutreten. Jeder Versuch von alten und neuen Nazis in der Öffentlichkeit noch stärker Fuß zu fassen, muss deshalb zurückgewiesen werden
+* Wir legen alle Bezüge, die wir im Zusammenhang mit Mandaten erhalten, offen. Unsere Mandatsträger:innen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen der Vereinigung für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
+* Wir handeln entsprechend unserem Programm und nutzen unsere Mandate um gemeinsam mit Betroffenen öffentlichen Druck zu entwickeln!
+
 . zur Sozialbindung des Eigentums, wie sie in Artikel 14 Absatz 2 des Grundgesetzes der Bundesrepublik Deutschland definiert ist.
 . zum Vorrang der fundamentalen Menschenrechte für alle Menschen, wie sie in der Allgemeinen Erklärung der Menschenrechte in der Generalversammlung der Vereinten Nationen am 10.12.1948 verkündet wurden – insbesondere des Rechts auf Gesundheit, körperliche Unversehrtheit, ein menschenwürdiges Leben, soziale Sicherheit, Arbeit und gleichen Lohn für gleiche Arbeit.
 . zum Vorrang der natürlichen Lebensgrundlagen und ihres Schutzes gegenüber damit unvereinbaren wirtschaftlichen und politischen Interessen.
