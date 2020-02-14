@@ -30,35 +30,15 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
 ====
 
 
-### Versionen, Feedback & Support
+### Versionen, ToDo's, Feedback & Support
 
-Diese Vorlage wird über Github gemanagt. Wir nutzen die Issues-Funktion für Feedback, Support-Anfragen und um Probleme zu diskutieren. Trage die dort gerne mit ein.
+[Diese Vorlage wird über Github gemanagt](https://github.com/RadikalSternchen/vorlagen). Wir nutzen die [Issues-Funktion](https://github.com/RadikalSternchen/vorlagen/issues) für Feedback, Support-Anfragen und um Probleme zu diskutieren. Trage die dort gerne mit ein.
 
 Auf freuen wir uns von euch zu hören, falls ihr auf Basis dieser Vorlage eine Vereinigung gründet!
 
 ### Lizenz
 
 Diese Vorlage ist als Creative Commons 1.0 Universal (CC0 1.0 Universal) veröffentlich und kann frei verwendet werden. Für die Lizenzrechte Dritter an bestimmten Passagen wird keine Haftung übernommen.
-
-### ToDo's
-* [x] übernommene Version überarbeiten
-** [x] format anpassen
-** [x] namen anpassbar machen
-* [x] Klimakonsens festschreiben
-* [x] Vielfaltsförderung festschreiben
-* [x] Blockwahlverfahren beschreiben, Quoten festlegen
-* [x] Online Befragungen und Abstimmungen festlegen
-* [x] Konkretiesierung der "Demokratie" für Arbeitskreise
-* [x] Konkretesierung von Projekt- und dauerhaften Arbeitsgruppen
-* [x] Umwandlung und Auflösung
-* [x] Vorwort
-* [x] verschwörungstheorien
-* [x] Instituitionellle Mitglieder benennen, nur deren Annahme vom Plenum bestätigen lassen
-* [x] Vollversammlung -> Plenum
-* [x] Datenschutz bei Online-Teilnahme
-* [x] Einzellmitglieder bei Abstimmungen und Wahlen
-* [x] Quorum für Anträge
-* [ ] Githubben
 
 ### Quellen
 - [1] <https://linke-liste-nürnberg.de/satzung-der-linken-liste-nuernberg/>
