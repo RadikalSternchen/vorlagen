@@ -14,6 +14,7 @@ Dies ist die Vorlage für eine moderne, progressive Wähler:innenvereinigung auf
 
 🌐 Online-first:: Alle Gremien, inklusive des Plenum, tagen dauerhaft und sind damit jederzeit beschlussfähig, was durch den Einsatz von Online Tools (wir empfehlen Loomio) ermöglicht. das Plenum kommt nur zu Personenwahlen zusammen, alle Beschlüsse laufen über das Onine-Verfahren. 
 📝 Flexibel:: Die Antrags- und Beschlussshöhen sind absichtlich niedrig angesetzt, nur wenige Paragraphen genießen einen zusätzlichen Schutz durch eine höher Hürde als einen einfachen Mehrheitbeschluss. Dadurch kann die Satzung auch einfach iterativ der praktischen Arbeit angepast werden. Insbesonder auch darüber, ob sich diese Organistion anderen Organisationen anschließt.
+🍀 Sofort Einsatzbereit:: Nur der erste Paragraph muss angepasst werden, alles andere ist auf allgemeine Worte angepasst und braucht keine weiteres Eintragen von Ort oder Namen der Vereinigung. Optional kann noch der unter 2. genannte komunalpolitische Konsens den eigenen Ansprüchen entsprechend angepasst werden.
 🤳 Anti-Ego:: Neben der klar formulierten Erwartungshaltung eines wertschätzenden Umgangs miteinander, sieht die Satzung auch einen Verhaltenskodex, Moderation, Rednerinnenlisten und Revisions-Gremien (Schiedsgericht) vor um Konflikte zu vermeinden und einen inklusiven Umgang der vielen Stimmen raum gibt, zu gestalten. Mandatsträger:innen sind zur Transparenz über die Einnahmen und Zurückspielen von Geldern selbstverpflichtet.
 🚀 Kollaborativ und Arbeitsorient:: ADie Aufgaben des Vorstands werden hier von einem Koordinierungsauschuss übernommen, die meiste inhaltliche und thematische Arbeit durch Arbeitsgruppen, die auch das Plenum selbst einberufen kann. Für alle Wahlen sind bereits Blockwahlen vorgesehen, damit sich hier gleich ganze Teams, die gut miteinander arbeiten können, zur Wahl stelllen können.
 🌈 Progressiv quotiert:: Gleichzeitig erkennt die Satzung die strukturelle Benachteiligung bestimmter Gruppen an und verfügt über ein progressives Modell mit der sich die Vereinigung zwingt dagegen auch strukturell vorzugehen, Benachteiligte und ihren Nachwuchs fördert und politische Stimme verleiht.
@@ -29,8 +30,17 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
 ====
 
 
-### ToDo's, Feedback & Support
+### Versionen, Feedback & Support
 
+Diese Vorlage wird über Github gemanagt. Wir nutzen die Issues-Funktion für Feedback, Support-Anfragen und um Probleme zu diskutieren. Trage die dort gerne mit ein.
+
+Auf freuen wir uns von euch zu hören, falls ihr auf Basis dieser Vorlage eine Vereinigung gründet!
+
+### Lizenz
+
+Diese Vorlage ist als Creative Commons 1.0 Universal (CC0 1.0 Universal) veröffentlich und kann frei verwendet werden. Für die Lizenzrechte Dritter an bestimmten Passagen wird keine Haftung übernommen.
+
+### ToDo's
 * [x] übernommene Version überarbeiten
 ** [x] format anpassen
 ** [x] namen anpassbar machen
@@ -45,9 +55,10 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
 * [x] verschwörungstheorien
 * [x] Instituitionellle Mitglieder benennen, nur deren Annahme vom Plenum bestätigen lassen
 * [x] Vollversammlung -> Plenum
-* [ ] Datenschutz bei Online-Teilnahme
+* [x] Datenschutz bei Online-Teilnahme
 * [x] Einzellmitglieder bei Abstimmungen und Wahlen
-* [ ] Quorum für Anträge
+* [x] Quorum für Anträge
+* [ ] Githubben
 
 ### Quellen
 - [1] <https://linke-liste-nürnberg.de/satzung-der-linken-liste-nuernberg/>
@@ -117,12 +128,16 @@ Jedes institutionelle Mitglied benennt eine Informationsperson und eine Stellver
 . Die Mitglieder pflegen einen wertschätzenden Umgang miteinder,der das Gemeinsame und den inneren Konsens sucht. Dabei ist aufeinander, insbesondere auf die Bedürfnisse betroffener und davon benachteiligter Menschen, Rücksicht zu nehmen und einzugehen.
 . Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen formuliert und aktiv durchgesetzt wird.
 . Die Vereinigung will jedem Mitglied, unabhängig von persönlichen Einschränkungen hinsichtlich Raum und Zeit und mögliche Einschränkungen, eine umfassende Teilnahme an der Meinungs- und Willensbildung ermöglichen. Daher treten die Organe grundsätzlich online zusammen und tagen grundsätzlich ständig.
-. Die Mitglieder verwenden technische Systeme um die -- bevozugt asynchrone -- Zusammenarbeit, sowie die Meinungs- und Willensbildung zu ermöglichen. Die dafür notwendigen technischen System werden von der Vereinigung zur Verfügung gestellt. Die Daten auf diesen Systemen, und damit auch die Nutzerinnen-Daten, sind als öffentlich zu betrachten.
+. Die Mitglieder verwenden technische Systeme um die -- bevozugt asynchrone -- Zusammenarbeit, sowie die Meinungs- und Willensbildung zu ermöglichen und Beschlüsse zu fassen. Die dafür notwendigen technischen System werden von der Vereinigung zur Verfügung gestellt. Dabei gilt
+ - Die Daten auf diesen Systemen, und damit auch die Nutzerinnen-Profile und das Abstimmungsverhalten, sind als öffentlich zu betrachten. Dies schließt die Auffindbarkeit von Suchmaschinen mit ein.
+ - Es besteht kein Recht darauf, auch bei Austritt, dass Beiträge oder Anträge aus diesen Plattformen gelöscht werden. - Lediglich die persönlichen Daten aus dem Profil können bei Austritt auf Wunsch anonymisiert werden.
+ - Es besteht die Möglichkeit sich nur über ein Pseudonum zu beteiligen um seine Identität zu schützen. Der Koordinierungsausschuss hat die Möglichkeit im Konfliktfall jedem Pseudonum die E-Mail-Adresse des dahinter stehenden Mitglied zu ordnen zu können.
 . Jedes Organ kann sich eine Moderation bestimmen, die Verfahrensabläufe vorschlägt, überwacht und moderierend in den Meinungs- und Willensbildungsprozess eingreifen kann.
 . Ein Organ kann beschließen, ausnahmsweise zur Behandlung einzelner Sachverhalte zeitlich und räumlich zusammenzutreten.
 . Ein Organ tritt zur Stimmabgabe bei geheimen Wahlen an einer oder mehreren über das Tätigkeitsgebiet der jeweiligen Gliederung verteilten Wahlurnen zusammen.
 . Die Mitglieder eines Organs sind an der aktiven Mitarbeit verpflichtet, es liegt in ihrer Verantwortung an Diskussionen und der Beschlussfassung teilzunehmen. 
 . Sofern das Organ keine abweichenden Regeln getroffen hat,  gelten die folgenden Abstimmungsregeln zur Beschlussfassung:
+* Eine Beschlussvorlage muss von  mindestens 10% der Abstimmungsberechtigten eingebracht werden – bei unter 21 Personen kann eine Einzellperson einen Antrag einbringen.
 * Eine Beschlussvorlage muss mindestens 3 Werktage (72 Stunden) zur Debatte stehen, damit allen die Möglichkeit gegeben ist, daran teilzunehmen.
 * Vorschläge zu Verfahrensweisen müssen mindestens 5 Werktage diskutiert und danach 5 Werktage abgestimmt werden können (also insg. mind 10 Werktage Zeit vergehen), damit alle Aspekte in Ruhe bedacht und abgewogen werden können.
 * Beschlüsse können auch vorher abgeschlossen werden, sofern alle Mitglieder an der Abstimmung teilgenommen haben.
@@ -173,7 +188,8 @@ Organe der Vereinigung sind das Plenum, die Wahversammlung, der Koordinierungsau
 * Planung und Koordination der politischen Arbeit
 * die Abgabe von Erklärungen zu aktuellen politischen Fragen
 * die Koordination zwischen den Arbeitskreisen.
-* Veröffentlichung der jeweils gültigen Satzung und Beschlusslage.
+* Veröffentlichung der jeweils gültigen Satzung und Beschlusslage des Plenums
+* die Verwaltung des Mitgliederliste und den Zugänge zu den Beteiligungsplattformen
 . Der Koordinierungsausschuss kann Entscheidungen finanzieller Art nur im Rahmen der Mittel der Vereinigung oder aufgrund eines Beschlusses des Plenums treffen.
 . Der Koordinierungsausschuss entscheidet über die Anerkennung von Untergliederungen und Arbeitskreisen sowie über die Zusammenarbeit mit Interessengruppen. Eine Bestätigung erfolgt durch das Plenum.
 . Er kann Aufgaben auf Widerruf an Arbeitskreise oder Einzelpersonen delegieren.
@@ -191,15 +207,15 @@ Organe der Vereinigung sind das Plenum, die Wahversammlung, der Koordinierungsau
 . Sie sind den Mitgliedern zugänglich. Die Mitarbeit von Einzellpersonen kann aber aufgrund von Mehrheitsbeschlüssen der anderen Mitglieder oder auf Beschlluss des Koordinierungsausschuss eingeschränkt werden.
 . Die Arbeitskreise können Gäste einladen.
 
-## Vereinigungsmittel
+## Finanzen
 . Für Mitglieder von Mitgliedsvereinen und -parteien ist der Mitgliedsbeitrag mit dem satzungsgemäßen Vereins- bzw. Parteibeitrag für ihren jeweiligen Verein oder Partei abgegolten. Im Gegenzug tragen die Mitgliedsvereine und -Parteien zu den laufenden Kosten der Vereinigung bei.
 . Die Höhe des Mitgliedsbeitrags für alle natürlichen Mitglieder der Vereinigung regelt eine Beitragsordnung, die das Plenum beschließt.
 . Der Mitgliedsbeitrag wird zentral über den Koordinierungsausschuss erhoben.
-. Zeichnungsberechtigt sind jeweils Schatzmeister:in und stellvertretende:r Schatzmeister:in. Gibt es keine:n stellvertretende:n Schatzmeister:in, bestimmt der Koordinierungsausschuss eine:n zweite:n Zeichnungsberechtigte:n aus seiner Mitte.
-. Über diese Mittel hat der Koordinierungsausschuss die Finanzhoheit. Darüber hinausgehender Finanzbedarf ist anlassbezogen von den Mitgliedsvereinen und –Parteien fallweise zu beschließen.
+. Zeichnungsberechtigt sind jeweils zwei Mitglieder der Koordinierungsausschuss gemeinsam.
+. Über diese Mittel hat der Koordinierungsausschuss die Finanzhoheit. Darüber hinausgehender Finanzbedarf ist anlassbezogen von den institutionellen Mitgliedern und dem Plenum fallweise zu beschließen.
 
 ## Schluss- und Übergangsbestimmungen
-. Die Vereinigung kann aufgrund eines Beschlusses der Vollverstammlung mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit des Plenums.
+. Die Vereinigung kann aufgrund eines Beschlusses des Plneums mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit des Plenums.
 +
 Löst sich die Vereinigung durch Verschmelzung mit einer anderen politischen Organisation auf, geht das Vermögen an diese über. In allen anderen Fällen geht das Vermögen an die Mitglieder zu gleichen Teilen (BGB §45).
 . Sollte eine oder mehrere Bestimmungen dieser Satzung rechtsunwirksam sein, so berührt dies nicht die Gültigkeit der übrigen Bestimmungen. Soweit Bestimmungen in dieser Satzung unwirksam sein sollten oder die Satzung eine Regelungslücke enthalten sollte, sind die Vorschriften des BGB über den eingetragenen Verein entsprechend anzuwenden.
