@@ -132,6 +132,7 @@ Jedes institutionelle Mitglied benennt eine Informationsperson und eine Stellver
  - Die Daten auf diesen Systemen, und damit auch die Nutzerinnen-Profile und das Abstimmungsverhalten, sind als öffentlich zu betrachten. Dies schließt die Auffindbarkeit von Suchmaschinen mit ein.
  - Es besteht kein Recht darauf, auch bei Austritt, dass Beiträge oder Anträge aus diesen Plattformen gelöscht werden. - Lediglich die persönlichen Daten aus dem Profil können bei Austritt auf Wunsch anonymisiert werden.
  - Es besteht die Möglichkeit sich nur über ein Pseudonum zu beteiligen um seine Identität zu schützen. Der Koordinierungsausschuss hat die Möglichkeit im Konfliktfall jedem Pseudonum die E-Mail-Adresse des dahinter stehenden Mitglied zu ordnen zu können.
+ - Stimmen können, sofern technisch möglich, delegiert werden.
 . Jedes Organ kann sich eine Moderation bestimmen, die Verfahrensabläufe vorschlägt, überwacht und moderierend in den Meinungs- und Willensbildungsprozess eingreifen kann.
 . Ein Organ kann beschließen, ausnahmsweise zur Behandlung einzelner Sachverhalte zeitlich und räumlich zusammenzutreten.
 . Ein Organ tritt zur Stimmabgabe bei geheimen Wahlen an einer oder mehreren über das Tätigkeitsgebiet der jeweiligen Gliederung verteilten Wahlurnen zusammen.
@@ -164,7 +165,7 @@ Organe der Vereinigung sind das Plenum, die Wahversammlung, der Koordinierungsau
 . Sie beschließt über Anträge, politische Ausrichtung und Programme und führt politische Grundsatzdiskussionen.
 . Sie nimmt Berichte der Mandatsträger:innen entgegen.
 . Sie nimmt einen Rechenschaftsbericht über die Finanzen der Vereinigung entgegen und entscheidet über die Rechtmäßigkeit der Ausgaben.
-. Sie legt die Größe und Amtszeit des Koordinierungsausschusses,der Schiedskommision, der Kassenrevision fest.
+. Sie legt die Größe und Amtszeit des Koordinierungsausschusses, der Schiedskommision, der Kassenrevision fest.
 . Sie kann den Koordinierungsausschuss verpflichten eine Wahlversammlung einzuberufen.
 
 ## Die Wahlversammlung
