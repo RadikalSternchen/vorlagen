@@ -12,7 +12,7 @@ v0.9, 14.02.2020
 
 Dies ist die Vorlage für eine moderne, progressive Wähler:innenvereinigung auf Komunaler Ebene. Diese verfügt über einige Besonderheit, einige davon können im nachhinhein nicht mehr so einfach eingefügt werden. So ist diese Organisation
 
-🌐 Online-first:: Alle Gremien, inklusive des Plenum, tagen dauerhaft und sind damit jederzeit beschlussfähig, was durch den Einsatz von Online Tools (wir empfehlen Loomio) ermöglicht. Die Vollversammlung kommt nur zu Personenwahlen zusammen, alle Beschlüsse laufen über das Onine-Verfahren. 
+🌐 Online-first:: Alle Gremien, inklusive des Plenum, tagen dauerhaft und sind damit jederzeit beschlussfähig, was durch den Einsatz von Online Tools (wir empfehlen Loomio) ermöglicht. das Plenum kommt nur zu Personenwahlen zusammen, alle Beschlüsse laufen über das Onine-Verfahren. 
 📝 Flexibel:: Die Antrags- und Beschlussshöhen sind absichtlich niedrig angesetzt, nur wenige Paragraphen genießen einen zusätzlichen Schutz durch eine höher Hürde als einen einfachen Mehrheitbeschluss. Dadurch kann die Satzung auch einfach iterativ der praktischen Arbeit angepast werden. Insbesonder auch darüber, ob sich diese Organistion anderen Organisationen anschließt.
 🤳 Anti-Ego:: Neben der klar formulierten Erwartungshaltung eines wertschätzenden Umgangs miteinander, sieht die Satzung auch einen Verhaltenskodex, Moderation, Rednerinnenlisten und Revisions-Gremien (Schiedsgericht) vor um Konflikte zu vermeinden und einen inklusiven Umgang der vielen Stimmen raum gibt, zu gestalten. Mandatsträger:innen sind zur Transparenz über die Einnahmen und Zurückspielen von Geldern selbstverpflichtet.
 🚀 Kollaborativ und Arbeitsorient:: ADie Aufgaben des Vorstands werden hier von einem Koordinierungsauschuss übernommen, die meiste inhaltliche und thematische Arbeit durch Arbeitsgruppen, die auch das Plenum selbst einberufen kann. Für alle Wahlen sind bereits Blockwahlen vorgesehen, damit sich hier gleich ganze Teams, die gut miteinander arbeiten können, zur Wahl stelllen können.
@@ -42,10 +42,11 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
 * [x] Konkretesierung von Projekt- und dauerhaften Arbeitsgruppen
 * [x] Umwandlung und Auflösung
 * [x] Vorwort
-* [ ] Instituitionellle Mitglieder benennen, nur deren Annahme vom Plenum bestätigen lassen
-* [ ] Vollversammlung -> Plenum
+* [x] verschwörungstheorien
+* [x] Instituitionellle Mitglieder benennen, nur deren Annahme vom Plenum bestätigen lassen
+* [x] Vollversammlung -> Plenum
 * [ ] Datenschutz bei Online-Teilnahme
-* [ ] Einzellmitglieder bei Abstimmungen und Wahlen
+* [x] Einzellmitglieder bei Abstimmungen und Wahlen
 * [ ] Quorum für Anträge
 
 ### Quellen
@@ -64,7 +65,7 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
 ## Name, Sitz
 . Die Vereinigung führt den Namen „{{Name}}“
 /// hier den Namen der Vereinigung eintragen
-. Die Vereinigung ist eine Wählervereinigung gemäß Paragraph Art. 24 . Satz 3 GLKrWG und ein nicht eingetragener Verein gemäß BGB. Die Vereinigung kann aufgrund eines Beschlusses der Vollversammlung in das Vereinsregister eingetragen werden.
+. Die Vereinigung ist eine Wählervereinigung gemäß Paragraph Art. 24 . Satz 3 GLKrWG und ein nicht eingetragener Verein gemäß BGB. Die Vereinigung kann aufgrund eines Beschlusses des Plenums in das Vereinsregister eingetragen werden.
 . Die Vereinigung ist begrenzt auf das Einzugsgebiet {{Ort}}.
 . Die Vereinigung hat Ihren Sitz in {{Ort}}.
 
@@ -72,7 +73,7 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
 . Die Vereinigung ist eine Wählervereinigung und politische Vereinigung.
 . Zweck der Vereinignung ist die Mitwirkung am politischen Willensbildungsprozess und die Teilnahme an den kommunalen Wahlen.
 . Der Satzungszweck wird verwirklicht durch
-   * die Durchführung von Vollversammlungen, politischen Veranstaltungen und öffentlichen Aktionen
+   * die Durchführung des Plenums, von Arbeitsgruppen,politischen Veranstaltungen und öffentlichen Aktionen
    * die Abgabe von politischen Erklärungen und Publikationen
    * Anträge und Anfragen auf kommunaler Ebene
 . Die Vereinigung bekennt sich
@@ -94,16 +95,16 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
 . Mitglieder der Vereinigung sollen sich aktiv an der Umsetzung des Vereinigungszwecks beteiligen.
 . Mitglieder können werden:
 .. natürliche Personen, die das vierzehnte Lebensjahr vollendet haben, Wohnort, Arbeitsstelle oder Lebensmittelpunkt im Einzugsgebiet der Vereinigung haben und Satzung und Programm anerkennen
-.. Vereine (-Gliederungen) und Parteien (-Gliederungen) mit politischem Bezug zum Einzugsgebiet
+.. Vereine (-Gliederungen) und Parteien (-Gliederungen) mit politischem Bezug zum Einzugsgebiet -- sogn. institutionelle Mitglieder.
 +
-Die Mitglieder dieser Vereine und Parteien sind automatisch Mitglied der Vereinigung, außer sie erklären gegenüber ihren Vorständen schriftlich, dass sie daran nicht teilhaben wollen. Der Verzicht auf die Mitgliedschaft bei der Vereinigung berührt den Status in ihrem jeweiligen Verein oder Partei nicht.
+Die Mitglieder dieser institutionellen Mitglieder sind automatisch Mitglied der Vereinigung, außer sie erklären gegenüber ihren Vorständen schriftlich, dass sie daran nicht teilhaben wollen. Der Verzicht auf die Mitgliedschaft bei der Vereinigung berührt den Status in ihrem jeweiligen Verein oder Partei nicht.
 . Mitglied kann nicht sein, wer
-.. einer Organisation angehört, deren Ziele im Widerspruch zu den Zielen der Vereinigung steht. Die Feststellung der Unvereinbarkeit trifft die Vollversammlung mit absoluter Mehrheit.
-.. einer Partei, Organisation oder Vereinigung angehört oder sich schriftlich oder öffentlich zu einer solchen bekennt, die rassistisches, faschistische, antisemitisches oder antidemokratisches Gedankengut verbreitet hat.
-. Die Mitgliedschaft beginnt mit der Aufnahme durch den Koordinierungsausschuss der Vereinigung. Eine Bestätigung erfolgt durch die Vollversammlung.
-. Die Vereinigung führt eine zentrale Mitgliederdatei der Einzelmitglieder. Diese darf nur die Daten enthalten, die für die Zwecke der Vereinigung nötig sind. Auf eine strikte Einhaltung des Bundesdatenschutzgesetzes ist zu achten. Alle Mitglieder, die über die Mitgliedschaft einer Mitgliedsorganisation Mitglied sind, werden über ihre Organisation erfasst und betreut.
+.. einer Organisation angehört, deren Ziele im Widerspruch zu den Zielen der Vereinigung steht. Die Feststellung der Unvereinbarkeit trifft das Plenum mit absoluter Mehrheit.
+.. einer Partei, Organisation oder Vereinigung angehört oder sich schriftlich oder öffentlich zu einer solchen bekennt, die rassistisches, faschistische, antisemitisches, verschwörungstheoretisches oder antidemokratisches Gedankengut verbreitet hat.
+. Die Mitgliedschaft beginnt mit der Aufnahme durch den Koordinierungsausschuss der Vereinigung. Eine Bestätigung der Aufnahme von Institutionelllen Mitglieder erfolgt durch das Plenum.
+. Die Vereinigung führt eine zentrale Mitgliederdatei der Einzelmitglieder. Diese darf nur die Daten enthalten, die für die Zwecke der Vereinigung nötig sind. Auf eine strikte Einhaltung des Bundesdatenschutzgesetzes ist zu achten. Alle Mitglieder, die über die Mitgliedschaft eine institutionelles Mitglied sind, werden über ihre Organisation erfasst und betreut.
 
-Jede Mitgliedsorganisation des Vereiningung benennt eine Informationsperson und eine Stellvertretung. Sie haben die Aufgabe, Informationen, Einladungen zu Vollversammlungen, Kommunalpolitischen Foren und andere Einladungen zu Veranstaltungen der Vereinigung an die Mitglieder ihrer Organisation, die Mitglieder in der Vereinigug sind, weiter zu leiten.
+Jedes institutionelle Mitglied benennt eine Informationsperson und eine Stellvertretung. Sie haben die Aufgabe, Informationen, Einladungen zu Wahlversammungen, Kommunalpolitischen Foren und andere Einladungen zu Veranstaltungen der Vereinigung, sowie den Zugang zu den online Beteiligungsformaten an die Mitglieder ihrer Organisation, die Mitglieder in der Vereinigug sind, weiter zu leiten.
 
 ## Beendigung der Mitgliedschaft
 . Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
@@ -113,8 +114,8 @@ Jede Mitgliedsorganisation des Vereiningung benennt eine Informationsperson und 
 
 ## Grundsätze der Zusammenarbeit
 
-. Die Mitglieder pflegen einen wertschätzenden Umgang miteinder,der das Gemeinsame und den inneren Konsens sucht. Dabei ist aufeinander, insbesondere auf die Bedürfnisse betroffener und davon benachteiligter Menschen, einzugehen.
-. Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen formuliert.
+. Die Mitglieder pflegen einen wertschätzenden Umgang miteinder,der das Gemeinsame und den inneren Konsens sucht. Dabei ist aufeinander, insbesondere auf die Bedürfnisse betroffener und davon benachteiligter Menschen, Rücksicht zu nehmen und einzugehen.
+. Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen formuliert und aktiv durchgesetzt wird.
 . Die Vereinigung will jedem Mitglied, unabhängig von persönlichen Einschränkungen hinsichtlich Raum und Zeit und mögliche Einschränkungen, eine umfassende Teilnahme an der Meinungs- und Willensbildung ermöglichen. Daher treten die Organe grundsätzlich online zusammen und tagen grundsätzlich ständig.
 . Die Mitglieder verwenden technische Systeme um die -- bevozugt asynchrone -- Zusammenarbeit, sowie die Meinungs- und Willensbildung zu ermöglichen. Die dafür notwendigen technischen System werden von der Vereinigung zur Verfügung gestellt. Die Daten auf diesen Systemen, und damit auch die Nutzerinnen-Daten, sind als öffentlich zu betrachten.
 . Jedes Organ kann sich eine Moderation bestimmen, die Verfahrensabläufe vorschlägt, überwacht und moderierend in den Meinungs- und Willensbildungsprozess eingreifen kann.
@@ -136,13 +137,13 @@ Jede Mitgliedsorganisation des Vereiningung benennt eine Informationsperson und 
 . Bei allen gewählten Organen ist auf einen Anteil von mindestens 50% Frauen, 25% diskriminierte Menschen und 15% junge Menschen hinzuwirken, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
 . Bei der Aufstellung von Wahllisten ist der erste Platz und dann mindestens jeder zweite Platz an eine Frau zu vergeben, der spätestens dritte und dann mindestens jede vierte Platz an einen diskriminierten Menschen und spätestens der fünfte und dann jeder vierte Platz an einen jungen Menschen zu vergeben, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
 . Diese Quotierungen sind auch bei Blockwahlvorschlägen einzuhalten.
-. Der Paragraph zur Beteiligungsförderung kann nur mit einem 2/3-Beschluss der Vollversammlung verändert werden.
+. Der Paragraph zur Beteiligungsförderung kann nur mit einem 2/3-Beschluss des Plenums verändert werden.
 
 ## Organe der Vereinigung
-Organe der Vereinigung sind die ständige Vollversammlung, die Wahversammlung, der Koordinierungsausschuss, die Schiedskommission, die Kassenrevision und die Arbeitskreise.
+Organe der Vereinigung sind das Plenum, die Wahversammlung, der Koordinierungsausschuss, die Schiedskommission, die Kassenrevision und die Arbeitskreise.
 
-## Die ständige Vollversammlung
-. Die ständige Vollversammlung ist die Mitgliederversammlung der Vereinigung. Sie ist das höchste Organ der Vereinignung. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung der Vereinigung betreffen. Mandatsträger:innen sind verpflichtet an der Vollversammlung teilzunehmen.
+## Das Plenum
+. Das Plenum ist die Mitgliederversammlung der Vereinigung. Sie ist das höchste Organ der Vereinignung. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung der Vereinigung betreffen. 
 . Sie tagt grundsätzlich asynchron online und dauerhaft. Sie bestimmt eine Moderation, die die Durchführung leitet.
 . Sie entscheidet über die Satzung und deren Änderung. Sofern ein Absatz der Satzung keine abweichende Regelung vorsieht, genügen für alle Beschlüsse die einfache Mehrheit der abgebenen Stimmen.
 . Sie beschließt über Anträge, politische Ausrichtung und Programme und führt politische Grundsatzdiskussionen.
@@ -153,13 +154,13 @@ Organe der Vereinigung sind die ständige Vollversammlung, die Wahversammlung, d
 
 ## Die Wahlversammlung
 . Die Wahlversammlung ist das räumliche Zusammenkommen der Mitgliederversammlung um Personenwahlen durchzuführen.
-. Dafür wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung und den zu wählenden Ämtern schriftlich per E-Mail einberufen. Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der Mitgliedsorganisationen und die Einzelmitglieder spätestens 14 Tage vor dem Zusammenkommen den Einladungstext vom Koordinierungsausschuss bekommen haben. 
+. Dafür wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung und den zu wählenden Ämtern schriftlich im Plenum und per E-Mail einberufen. Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der institutionellen Mitglieder und die Einzelmitglieder spätestens 14 Tage vor dem Zusammenkommen den Einladungstext vom Koordinierungsausschuss bekommen haben. 
 . Während der Wahlversammlung ist die ständige online Versammmlung unterbrochen. Die Wahlversammlung ist beschlussfähig, wenn zu ihr ordnungsgemäß einberufen wurde.
 . Die Wahlversammlung wählt:
  - Den Koordinierungsausschuss. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind in allen Fällen einzuhalten.
  - Die Schiedskommission. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind einzuhalten, einzelllne Regelungen können vorrübergehend ausgesetzt werden, wenn diese nicht eingehalten werden können. Ein Aussetzen aller Quotierungsanforderungen ist nicht möglich.
  - Die Kassenrevision. Dies kann auch per Blockwahl geschehen.
-. Die Wahlversammlung kann als Aufstellungsversammlung von Kandidat:innen fungieren, wenn die Wahl in der Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des jeweiligen Kommunalwahlgesetzes erfüllen.
+. Die Wahlversammlung kann als Aufstellungsversammlung von Kandidat:innen fungieren, wenn die Wahl in der Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des jeweiligen Kommunalwahlgesetzes erfüllen. Auch die Aufstellungsversammlung kann die Liste per Blockwahl bestimmen.
 
 ## Der Koordinierungsausschuss
 . Der Koordinierungsausschuss vertritt die Vereinigung rechtlich und nimmt alle Funktionen eines Vorstands gemäß §26 BGB wahr.
@@ -168,37 +169,37 @@ Organe der Vereinigung sind die ständige Vollversammlung, die Wahversammlung, d
 . Der Koordinierungsausschuss tagt online und dauerhaft.
 . Zu seinen Aufgaben gehören u. a.:
 
-* die Umsetzung der Beschlüsse der Vollversammlung
+* die Umsetzung der Beschlüsse des Plenums
 * Planung und Koordination der politischen Arbeit
 * die Abgabe von Erklärungen zu aktuellen politischen Fragen
 * die Koordination zwischen den Arbeitskreisen.
 * Veröffentlichung der jeweils gültigen Satzung und Beschlusslage.
-. Der Koordinierungsausschuss kann Entscheidungen finanzieller Art nur im Rahmen der Mittel der Vereinigung oder aufgrund eines Beschlusses der Vollversammlung treffen.
-. Der Koordinierungsausschuss entscheidet über die Anerkennung von Untergliederungen und Arbeitskreisen sowie über die Zusammenarbeit mit Interessengruppen. Eine Bestätigung erfolgt durch die Vollversammlung.
+. Der Koordinierungsausschuss kann Entscheidungen finanzieller Art nur im Rahmen der Mittel der Vereinigung oder aufgrund eines Beschlusses des Plenums treffen.
+. Der Koordinierungsausschuss entscheidet über die Anerkennung von Untergliederungen und Arbeitskreisen sowie über die Zusammenarbeit mit Interessengruppen. Eine Bestätigung erfolgt durch das Plenum.
 . Er kann Aufgaben auf Widerruf an Arbeitskreise oder Einzelpersonen delegieren.
 . Der Koordinierungsausschuss lädt zur Aufstellungsversammlung ein. Die Einladung und der Inhalt der Aufstellungsversammlung entsprechen den Kriterien des Kommunalwahlrechts.
 
 ## Die Schiedskommission
 . Die Schiedskommission besteht aus mindestens drei Mitgliedern. Die Mitglieder der Schiedskommission dürfen nicht gleichzeitig Mitglied des Koordinierungsausschusses sein.
 . Die Schiedskommission tagt dauerhaft online.
-. Die Schiedskommission wird nur auf Antrag des Koordinierungsausschusses, der Vollversammlung oder eines Mitglieds, das selbst von einem Vorgang direkt und erheblich betroffen ist, tätig.
+. Die Schiedskommission wird nur auf Antrag des Koordinierungsausschusses, des Plenums oder eines Mitglieds, das selbst von einem Vorgang direkt und erheblich betroffen ist, tätig.
 . Die Schiedskommission entscheidet mit Zweidrittelmehrheit über Verstöße gegen die Satzung.
 
 ## Arbeitskreise
-. Arbeitskreise werden auf Beschluss der Vollversammlung oder des Koordinierungsausschusses gegründet. Sie arbeiten zu einem bestimmten Thema, Arbeitsbereich oder Projekt.
+. Arbeitskreise werden auf Beschluss des Plenums oder des Koordinierungsausschusses gegründet. Sie arbeiten zu einem bestimmten Thema, Arbeitsbereich oder Projekt.
 . Sie geben sich selbst eine demokratische Struktur, die ihren Anforderungen entspricht, sie benennen eine Ansprechperson.
 . Sie sind den Mitgliedern zugänglich. Die Mitarbeit von Einzellpersonen kann aber aufgrund von Mehrheitsbeschlüssen der anderen Mitglieder oder auf Beschlluss des Koordinierungsausschuss eingeschränkt werden.
 . Die Arbeitskreise können Gäste einladen.
 
 ## Vereinigungsmittel
 . Für Mitglieder von Mitgliedsvereinen und -parteien ist der Mitgliedsbeitrag mit dem satzungsgemäßen Vereins- bzw. Parteibeitrag für ihren jeweiligen Verein oder Partei abgegolten. Im Gegenzug tragen die Mitgliedsvereine und -Parteien zu den laufenden Kosten der Vereinigung bei.
-. Die Höhe des Mitgliedsbeitrags für alle natürlichen Mitglieder der Vereinigung regelt eine Beitragsordnung, die die Vollversammlung beschließt.
+. Die Höhe des Mitgliedsbeitrags für alle natürlichen Mitglieder der Vereinigung regelt eine Beitragsordnung, die das Plenum beschließt.
 . Der Mitgliedsbeitrag wird zentral über den Koordinierungsausschuss erhoben.
 . Zeichnungsberechtigt sind jeweils Schatzmeister:in und stellvertretende:r Schatzmeister:in. Gibt es keine:n stellvertretende:n Schatzmeister:in, bestimmt der Koordinierungsausschuss eine:n zweite:n Zeichnungsberechtigte:n aus seiner Mitte.
 . Über diese Mittel hat der Koordinierungsausschuss die Finanzhoheit. Darüber hinausgehender Finanzbedarf ist anlassbezogen von den Mitgliedsvereinen und –Parteien fallweise zu beschließen.
 
 ## Schluss- und Übergangsbestimmungen
-. Die Vereinigung kann aufgrund eines Beschlusses der Vollverstammlung mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit der Vollversammlung.
+. Die Vereinigung kann aufgrund eines Beschlusses der Vollverstammlung mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit des Plenums.
 +
 Löst sich die Vereinigung durch Verschmelzung mit einer anderen politischen Organisation auf, geht das Vermögen an diese über. In allen anderen Fällen geht das Vermögen an die Mitglieder zu gleichen Teilen (BGB §45).
 . Sollte eine oder mehrere Bestimmungen dieser Satzung rechtsunwirksam sein, so berührt dies nicht die Gültigkeit der übrigen Bestimmungen. Soweit Bestimmungen in dieser Satzung unwirksam sein sollten oder die Satzung eine Regelungslücke enthalten sollte, sind die Vorschriften des BGB über den eingetragenen Verein entsprechend anzuwenden.
