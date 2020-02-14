@@ -34,7 +34,7 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
 * [x] übernommene Version überarbeiten
 ** [x] format anpassen
 ** [x] namen anpassbar machen
-* [ ] Klimakonsens festschreiben
+* [x] Klimakonsens festschreiben
 * [x] Vielfaltsförderung festschreiben
 * [x] Blockwahlverfahren beschreiben, Quoten festlegen
 * [x] Online Befragungen und Abstimmungen festlegen
@@ -75,18 +75,20 @@ Auch wenn diese Vorlage weitesgehend aus bestehenden sich im Einsatz befindenden
    * die Durchführung von Vollversammlungen, politischen Veranstaltungen und öffentlichen Aktionen
    * die Abgabe von politischen Erklärungen und Publikationen
    * Anträge und Anfragen auf kommunaler Ebene
-. Die Vereinigung bekennt sich zu den kommunalpolitischen Eckpunkten. Diese sind:
-
+. Die Vereinigung bekennt sich
+.. zum Menschen-gemachten Klimawandel und der daraus resultierenden Klimakatastrophe. Wir erkennen an, dass dieser überproportional von den Reichen dieser Welt verursacht wurde und wird und die Ärmsten darunter am Stärksten leiden und leiden werden. Wir erkennen unsere Verantwortung an, dass Maßnahmen dazu nicht zu Lasten der bereits Benachteiligten getroffen dürfen, sondern vor allem die Verursacher zur Verantwortung gezogen werden. Wir bekennen uns zur lokalen und globalen Klimagerechtigkeit. 
+.. zur Verkehrswende, Energiewende und dem Systemwandel der nötig ist um die schlimmsten Folgen der Klimakatastrophe abzuwenden.
+.. zum Vorrang der fundamentalen Menschenrechte für alle Menschen, wie sie in der Allgemeinen Erklärung der Menschenrechte in der Generalversammlung der Vereinten Nationen am 10.12.1948 verkündet wurden – insbesondere des Rechts auf Gesundheit, körperliche Unversehrtheit, ein menschenwürdiges Leben, soziale Sicherheit und Asyl bei Verfolgung.
+.. zum Vorrang der natürlichen Lebensgrundlagen und ihres Schutzes gegenüber damit unvereinbaren wirtschaftlichen und politischen Interessen.
+.. im Sinne des Völkerverständigungsgedankens und der Menschenrechte zur Solidarität mit benachteiligten Menschen im sogennanten globalen Süden.
+.. zur Sozialbindung des Eigentums, wie sie in Artikel 14 Absatz 2 des Grundgesetzes der Bundesrepublik Deutschland definiert ist.
+.. zur Bewahrung, Stärkung, Durchsetzung und zum Ausbau der Rechte der Bürger:innen, dabei insbesondere von benachteiligten und diskriminierten Menschen.
+.. zur Verteidigung und zum Ausbau der kommunalen Demokratie und Büger:innenbeteiligung, z.B. durch die Stärkung des kommunallen Parlaments, sowie der Verbesserung der Mitspracherechte der Beiräte und Bürger:innen, z.B. in Form von Beteiligungshaushalten und der Förderung direkter Mitwirkungsrechte (Volksbefragungen und –entscheide und Bürger:innenräte).
+.. zu den kommunalpolitischen Eckpunkten. Diese sind:
 * Es ist für uns selbstverständlich, gegen jede Art von Diskriminierung, gegen Rassismus, Antisemitismus und Ausländerfeindlichkeit aufzutreten. Jeder Versuch von alten und neuen Nazis in der Öffentlichkeit noch stärker Fuß zu fassen, muss deshalb zurückgewiesen werden
+* Global denken, lokal handekn -- dies gilt insbesondere beim Thema Klimagerechtigkeit. Daher fordern wir den Klimanotstand auszurufen und alle bestehenden, wie auch zukunftigen politischen Entscheidungen auf ihren direkten wie auch indirekten Klimaeinfluss zu prüfen. 
 * Wir legen alle Bezüge, die wir im Zusammenhang mit Mandaten erhalten, offen. Unsere Mandatsträger:innen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen der Vereinigung für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
 * Wir handeln entsprechend unserem Programm und nutzen unsere Mandate um gemeinsam mit Betroffenen öffentlichen Druck zu entwickeln!
-
-. zur Sozialbindung des Eigentums, wie sie in Artikel 14 Absatz 2 des Grundgesetzes der Bundesrepublik Deutschland definiert ist.
-. zum Vorrang der fundamentalen Menschenrechte für alle Menschen, wie sie in der Allgemeinen Erklärung der Menschenrechte in der Generalversammlung der Vereinten Nationen am 10.12.1948 verkündet wurden – insbesondere des Rechts auf Gesundheit, körperliche Unversehrtheit, ein menschenwürdiges Leben, soziale Sicherheit, Arbeit und gleichen Lohn für gleiche Arbeit.
-. zum Vorrang der natürlichen Lebensgrundlagen und ihres Schutzes gegenüber damit unvereinbaren wirtschaftlichen und politischen Interessen.
-. im Sinne des Völkerverständigungsgedankens und der Menschenrechte zur Solidarität mit benachteiligten Menschen in der sogenannten Dritten Welt.
-. zur Bewahrung, Stärkung, Durchsetzung und zum Ausbau der Rechte von Arbeitnehmer:innen und benachteiligten Menschen (z.B. Arbeitslose, Renter:innen, Behinderte)
-. zur Verteidigung und zum Ausbau der kommunalen Demokratie durch die Stärkung des Stadtparlaments, sowie der Verbesserung der Mitspracherechte der Beiräte und Bürger:innen, z.B. in Form von Beteiligungshaushalten und der Förderung direkter Mitwirkungsrechte (Volksbefragungen und –entscheide auf kommunaler Ebene).
 
 ## Mitgliedschaft
 . Mitglieder der Vereinigung sollen sich aktiv an der Umsetzung des Vereinigungszwecks beteiligen.
