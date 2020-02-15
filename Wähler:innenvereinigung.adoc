@@ -1,10 +1,11 @@
 # Satzungsvorlage für eine Wähler:innenvereinigung
 Benjamin Kampmann <ben@gnunicorn.org>, [Radikal*](https://radikal.jetzt)
-v0.9, 14.02.2020
+v0.99, 14.02.2020
 :sectanchors:
 :lang: de
 :toc:
 :pagelayout: docs
+:icons: font
 
 ## Einleitung
 
@@ -13,10 +14,11 @@ v0.9, 14.02.2020
 Dies ist die Vorlage für eine moderne, progressive Wähler:innenvereinigung auf Komunaler Ebene. Diese verfügt über einige Besonderheit, einige davon können im nachhinhein nicht mehr so einfach eingefügt werden. So ist diese Organisation
 
 🌐 Online-first:: Alle Gremien, inklusive des Plenum, tagen dauerhaft und sind damit jederzeit beschlussfähig, was durch den Einsatz von Online Tools (wir empfehlen Loomio) ermöglicht. das Plenum kommt nur zu Personenwahlen zusammen, alle Beschlüsse laufen über das Onine-Verfahren. 
-📝 Flexibel:: Die Antrags- und Beschlusshöhen sind absichtlich niedrig angesetzt, nur wenige Paragraphen genießen einen zusätzlichen Schutz durch eine höher Hürde als einen einfachen Mehrheitbeschluss. Dadurch kann die Satzung auch einfach iterativ der praktischen Arbeit angepast werden. Insbesonder auch darüber, ob sich diese Organistion anderen Organisationen anschließt.
-🍀 Sofort Einsatzbereit:: Nur der erste Paragraph muss angepasst werden, alles andere ist auf allgemeine Worte angepasst und braucht keine weiteres Eintragen von Ort oder Namen der Vereinigung. Optional kann noch der unter 2. genannte komunalpolitische Konsens den eigenen Ansprüchen entsprechend angepasst werden.
+📝 Flexibel:: Die Antrags- und Beschlusshöhen sind absichtlich niedrig angesetzt, nur wenige Paragraphen genießen einen zusätzlichen Schutz durch eine höher Hürde als einen einfachen Mehrheitbeschluss. Dadurch kann die Satzung auch einfach iterativ der praktischen Arbeit angepast werden.
+💡 Nachvollziehbar:: Die Satzung ist in klarer, nachvollziehbarer Sprache formuliert. Die kommentierte Fassung erklärt die Sachverhalte und Gedankengänge und die weiteren Kontext geben und verständlich machen.
+🍀 Sofort einsatzbereit:: Nur der erste Paragraph muss angepasst werden, alles andere ist auf allgemeine Worte angepasst. Optional kann noch der unter 2. genannte komunalpolitische Konsens den eigenen Ansprüchen entsprechend angepasst werden. Die Vorlage muss nur nach LibreOffice kopiert, Name und Ort eingetragen und die Kommtare gelöscht werden und schon kanns losgehen!
 🤳 Anti-Ego:: Neben der klar formulierten Erwartungshaltung eines wertschätzenden Umgangs miteinander, sieht die Satzung auch einen Verhaltenskodex, Moderation, Rednerinnenlisten und Revisions-Gremien (Schiedsgericht) vor um Konflikte zu vermeinden und einen inklusiven Umgang der vielen Stimmen raum gibt, zu gestalten. Mandatsträger:innen sind zur Transparenz über die Einnahmen und Zurückspielen von Geldern selbstverpflichtet.
-🚀 Kollaborativ und Arbeitsorient:: ADie Aufgaben des Vorstands werden hier von einem Koordinierungsauschuss übernommen, die meiste inhaltliche und thematische Arbeit durch Arbeitsgruppen, die auch das Plenum selbst einberufen kann. Für alle Wahlen sind bereits Blockwahlen vorgesehen, damit sich hier gleich ganze Teams, die gut miteinander arbeiten können, zur Wahl stelllen können.
+🚀 Kollaborativ und arbeitsorient:: ADie Aufgaben des Vorstands werden hier von einem Koordinierungsauschuss übernommen, die meiste inhaltliche und thematische Arbeit durch Arbeitsgruppen, die auch das Plenum selbst einberufen kann. Für alle Wahlen sind bereits Blockwahlen vorgesehen, damit sich hier gleich ganze Teams, die gut miteinander arbeiten können, zur Wahl stelllen können.
 🌈 Progressiv quotiert:: Gleichzeitig erkennt die Satzung die strukturelle Benachteiligung bestimmter Gruppen an und verfügt über ein progressives Modell mit der sich die Vereinigung zwingt dagegen auch strukturell vorzugehen, Benachteiligte und ihren Nachwuchs fördert und politische Stimme verleiht.
 🔐 DSGVO konform:: Als über ein Online Verfahren Abstimmende Organisation steht die Frage des Datenschutz auch mit auf dem Programm und wird von beginn an in der Satzung geklärt.
 🤝 mit politischen Konsens:: Um von vorneherein bestimmte Grabenkämpfe nicht zu führen und den Problemen aus dem Weg zu gehen, kommt die Satzung mit einem politischen Konsens (den wir empfehlen anzupassen!) und bestimmten Ausschlusskriterien der Mitgliedschaft.
@@ -54,19 +56,29 @@ Diese Vorlage ist als Creative Commons 1.0 Universal (CC0 1.0 Universal) veröff
 
 :sectnums:
 ## Name, Sitz
+
 . Die Vereinigung führt den Namen „{{Name}}“
 /// hier den Namen der Vereinigung eintragen
 . Die Vereinigung ist eine Wählervereinigung gemäß Paragraph Art. 24 . Satz 3 GLKrWG und ein nicht eingetragener Verein gemäß BGB. Die Vereinigung kann aufgrund eines Beschlusses des Plenums in das Vereinsregister eingetragen werden.
 . Die Vereinigung ist begrenzt auf das Einzugsgebiet {{Ort}}.
 . Die Vereinigung hat Ihren Sitz in {{Ort}}.
 
+[TIP]
+====
+Hier nur den Namen der Vereinigung und den Sitz eintragen, also die Gemeinde, Kommune oder Stadt eintragen, für die sie gilt. Dieser Absatz legt fest, dass diese Vereinigung als ein nicht-eingetragener Verein und als politische Verinigung git.
+
+Der Verein kann sich auch eintragen lassen und würde dann die Endung e.V. tragen, die Notwendigkeit besteht aber nicht. Dafür braucht es nur einen Beschluss des Plenum.
+====
+
 ## Ziel und Zweck
 . Die Vereinigung ist eine Wählervereinigung und politische Vereinigung.
 . Zweck der Vereinignung ist die Mitwirkung am politischen Willensbildungsprozess und die Teilnahme an den kommunalen Wahlen.
+
 . Der Satzungszweck wird verwirklicht durch
    * die Durchführung des Plenums, von Arbeitsgruppen,politischen Veranstaltungen und öffentlichen Aktionen
    * die Abgabe von politischen Erklärungen und Publikationen
    * Anträge und Anfragen auf kommunaler Ebene
+
 . Die Vereinigung bekennt sich
 .. zum Menschen-gemachten Klimawandel und der daraus resultierenden Klimakatastrophe. Wir erkennen an, dass dieser überproportional von den Reichen dieser Welt verursacht wurde und wird und die Ärmsten darunter am Stärksten leiden und leiden werden. Wir erkennen unsere Verantwortung an, dass Maßnahmen dazu nicht zu Lasten der bereits Benachteiligten getroffen dürfen, sondern vor allem die Verursacher zur Verantwortung gezogen werden. Wir bekennen uns zur lokalen und globalen Klimagerechtigkeit. 
 .. zur Verkehrswende, Energiewende und dem Systemwandel der nötig ist um die schlimmsten Folgen der Klimakatastrophe abzuwenden.
@@ -82,6 +94,12 @@ Diese Vorlage ist als Creative Commons 1.0 Universal (CC0 1.0 Universal) veröff
 * Wir legen alle Bezüge, die wir im Zusammenhang mit Mandaten erhalten, offen. Unsere Mandatsträger:innen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen der Vereinigung für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
 * Wir handeln entsprechend unserem Programm und nutzen unsere Mandate um gemeinsam mit Betroffenen öffentlichen Druck zu entwickeln!
 
+[TIP]
+====
+Dies ist der politische Grundkonsens. Parteien haben ein Parteiprogramm,als Wähler:innenvereinigung besteht diese Notwendigkeit nicht. Es hat sich aber in der Praxis gezeigt, dass es sinnvoll ist ein paar Grundaspekte von Beginn an klar zu haben, um dauerhafte Grundsatzdiskussionen in der Organisation zu vermeiden.
+====
+
+
 ## Mitgliedschaft
 . Mitglieder der Vereinigung sollen sich aktiv an der Umsetzung des Vereinigungszwecks beteiligen.
 . Mitglieder können werden:
@@ -92,36 +110,117 @@ Die Mitglieder dieser institutionellen Mitglieder sind automatisch Mitglied der 
 . Mitglied kann nicht sein, wer
 .. einer Organisation angehört, deren Ziele im Widerspruch zu den Zielen der Vereinigung steht. Die Feststellung der Unvereinbarkeit trifft das Plenum mit absoluter Mehrheit.
 .. einer Partei, Organisation oder Vereinigung angehört oder sich schriftlich oder öffentlich zu einer solchen bekennt, die rassistisches, faschistische, antisemitisches, verschwörungstheoretisches oder antidemokratisches Gedankengut verbreitet hat.
++
+[IMPORTANT]
+====
+Dieser politische Grundkonsens sollte auch unbedingt durch Unvereinbarkeitserklärungen festgeschrieben sein. Diese _müssen_ in der Satzung verankert werden, da sich jedes Mitglied dazu seit Beginn bekennt. Hierbei ist es wichtig, dass bereits, dass "öffentliche Bekennen" -- nicht erst die Mitgliedschaft -- bereits ein Verstoß darstellt. Darunter fällt z.B. auch das Mitlaufen auf einer Demo.
+====
 . Die Mitgliedschaft beginnt mit der Aufnahme durch den Koordinierungsausschuss der Vereinigung. Eine Bestätigung der Aufnahme von Institutionelllen Mitglieder erfolgt durch das Plenum.
 . Die Vereinigung führt eine zentrale Mitgliederdatei der Einzelmitglieder. Diese darf nur die Daten enthalten, die für die Zwecke der Vereinigung nötig sind. Auf eine strikte Einhaltung des Bundesdatenschutzgesetzes ist zu achten. Alle Mitglieder, die über die Mitgliedschaft eine institutionelles Mitglied sind, werden über ihre Organisation erfasst und betreut.
-
++
 Jedes institutionelle Mitglied benennt eine Informationsperson und eine Stellvertretung. Sie haben die Aufgabe, Informationen, Einladungen zu Wahlversammungen, Kommunalpolitischen Foren und andere Einladungen zu Veranstaltungen der Vereinigung, sowie den Zugang zu den online Beteiligungsformaten an die Mitglieder ihrer Organisation, die Mitglieder in der Vereinigug sind, weiter zu leiten.
 
 ## Beendigung der Mitgliedschaft
 . Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 . Der Austritt aus der Vereinigung ist jederzeit zulässig. Er erfolgt durch eine schriftliche Erklärung gegenüber dem Koordinierungsausschuss.
 . Ein Mitglied kann ausgeschlossen werden, wenn es vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze des Programms verstoßen oder der Vereinigung erheblichen Schaden zugefügt hat. Eine Betätigung nach 3.3 ist ein solch schädigendes Verhalten und begründet einen Ausschluss.
++
+[IMPORTANT]
+====
+Es ist wichtig nochmal fest zu halten, dass die Gründe in 3.3 nicht nur Grund sind um eine Aufnahme zu verweigern -- eine Aufnahme kann ohne die Angabe von Gründen abgelehnt werden -- sondern auch as Ausschlussgrund dienen kann. Dabei ist die Vorsätzlichkeit ausschlaggebend, die auch dadurch gegeben sein kann, dass die Person darüber in Kenntniss gesetzt wurde, sich aber nicht distanziert bzw. weiter mit gemacht hat.
+====
 . Der Ausschluss kann nur als Folge eines Schiedsverfahrens erfolgen. Bei Einleitung eines Schiedsverfahrens entscheidet die Schiedskommission endgültig innerhalb eines Monats. Die Mitgliedsrechte bleiben bis zur Entscheidung der Schiedskommission bestehen.
++
+[IMPORTANT]
+====
+Die Mitgliedschaft in politischen Organisationen genießt besonderen Schutz im Deutschen Recht um Repressionen durch Widersacher:innen zu unterbinden. Daher kann ein Ausschluss immer nur durch das direkt von der Vollversammlung unabhängig bestimmten Schiedskommission erteilt werden.
+====
 
 ## Grundsätze der Zusammenarbeit
 
+[NOTE]
+====
+Im folgenden werden einige Grundsätze der Zusammenarbeit festgehalten. Darunter fallen der direkten Umgang miteinander genauso wie, dass grundsätzlich asynchron und online gearbetiet und beschlossen wird.
+====
+
 . Die Mitglieder pflegen einen wertschätzenden Umgang miteinder,der das Gemeinsame und den inneren Konsens sucht. Dabei ist aufeinander, insbesondere auf die Bedürfnisse betroffener und davon benachteiligter Menschen, Rücksicht zu nehmen und einzugehen.
-. Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen formuliert und aktiv durchgesetzt wird.
+. Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen, sowie in den online Plattformen, formuliert und aktiv durchgesetzt wird.
++
+[NOTE]
+====
+Die Satzung regelt nur das Gröbste, für alles weitere gibt es einen Verhaltenskodex, den wir empfehen ebenfalls aufzulegen und durchaus mit Biss auszustatten und auch durchzusetzen. UIm
+====
 . Die Vereinigung will jedem Mitglied, unabhängig von persönlichen Einschränkungen hinsichtlich Raum und Zeit und mögliche Einschränkungen, eine umfassende Teilnahme an der Meinungs- und Willensbildung ermöglichen. Daher treten die Organe grundsätzlich online zusammen und tagen grundsätzlich ständig.
++
+[NOTE]
+====
+Dadurch, dass alle Arbeitsgruppen, das Plenum und der Koordinierungsausschuss dauerhaft ("ständig") online tagen sind diese auch ohne Einladung jederzeit Beschlussfähig, so lange sich an die Fristen gehalten wird –- wofür weiter unten noch ein konkreter Standardvorschlag vorgelegt wird.
+====
 . Die Mitglieder verwenden technische Systeme um die -- bevozugt asynchrone -- Zusammenarbeit, sowie die Meinungs- und Willensbildung zu ermöglichen und Beschlüsse zu fassen. Die dafür notwendigen technischen System werden von der Vereinigung zur Verfügung gestellt. Dabei gilt
  - Die Daten auf diesen Systemen, und damit auch die Nutzerinnen-Profile und das Abstimmungsverhalten, sind als öffentlich zu betrachten. Dies schließt die Auffindbarkeit von Suchmaschinen mit ein.
++
+[IMPORTANT]
+====
+Der Datenschutz ist gerade bei der politischen Willensbildung und Beteiligung weitaus strikter zu werten als anderswo. Auch wenn moderne technische Systeme bereits praktisch genug Absicherungsmechanismen bieten, ist dies rechtlich nicht als "geheim" zu betrachten -- weil den Betreibern der Systeme die Informationen zugänglich sind.
+
+Statt dessen scheint daher die aktuelll einzig rechtlich mögliche Variante darin zu bestehen, dass die Mitglieder _von Beginn an in der  Satzung verankert_ auch die Geheimhalltung verzichten und alle dort eingebrachten Daten als "öffentlich" akzeptieren -- wie es an einem normalen Parteitag mit offenen Abstimmungen in der Regel ja auch wäre. 
+====
  - Es besteht kein Recht darauf, auch bei Austritt, dass Beiträge oder Anträge aus diesen Plattformen gelöscht werden. - Lediglich die persönlichen Daten aus dem Profil können bei Austritt auf Wunsch anonymisiert werden.
++
+[IMPORTANT]
+====
+Umgekehrt muss sich die Organisation auch das Recht geben lassen, diese Informationen nicht löschen zu müssen. Es ist schließlich in der Praxis nicht akzeptabe, dass gefasste Beschlüsse bei Austritt des Mitglieds unkenntich werden. Statt dessen wird auch nochmal festgeschrieben, dass die eingebrachten Daten nicht nur öffentlich, sondern sogar dauerhaft archiviert werden dürfen. 
+
+All dem wird implizit durch das Stellen eines Mitgliedsantrag zugestimmt.
+====
  - Es besteht die Möglichkeit sich nur über ein Pseudonum zu beteiligen um seine Identität zu schützen. Der Koordinierungsausschuss hat die Möglichkeit im Konfliktfall jedem Pseudonum die E-Mail-Adresse des dahinter stehenden Mitglied zu ordnen zu können.
++
+[IMPORTANT]
+====
+Um dennoch einen gewissen Schutz zu bieten, wird angeboten, dass Personen sich ein frei wählbares Pseudonym geben können. Dies erlaubt Ihnen, dass die Daten weder online noch offline mit Ihnen verknüpft werden können.
+
+Aus rechtlichen Gründen muss der KA aber jeden Beitrag der Authorin zuordnen können, z.B. wenn die Staatsanwaltschaft fragt oder dies für ein Schiedsverfahren relevant ist. Daher wird auch dies hier einmal transparent gemacht.
+====
  - Stimmen können, sofern technisch möglich, delegiert werden.
 . Jedes Organ kann sich eine Moderation bestimmen, die Verfahrensabläufe vorschlägt, überwacht und moderierend in den Meinungs- und Willensbildungsprozess eingreifen kann.
++
+[NOTE]
+====
+Es ist grundsätzlich sinnvoll bei jeder größeren Ansammlung von Menschen eine Moderation zu bestimmen und dieser mehr Macht zu übertragen. Ein gutes Beispiel ist, dass diese eine Diskussion schließen können, wenn diese vom Thema weg läuft, aber auch direkt Vorschläge einbringt, um z.B. Verfahrensweisen zu beeinflussen. Ein gutes Beispiel ist, dass die Moderation einer Online Plattform Ferienzeiten festlegt und über deren Einhaltung wacht.
+====
 . Ein Organ kann beschließen, ausnahmsweise zur Behandlung einzelner Sachverhalte zeitlich und räumlich zusammenzutreten.
++
+[TIP]
+====
+Dies kann z.B. ein Call sein. Grundsätzlich sollte bei diesem Beschluss auch die Beschlussfähigkeit der Zusammenkunft festgelegt werden. Sollte dies ein häufigeres Verfahren sein -- z.B. einmal die Woch einen Call zu haben -- sollte die Beschlussfähigkeit dafür durch einen allgemeinen Verfahrensbeschlluss geregelt werden um Streitigkeiten darüber vorzubeigen.
+====
 . Ein Organ tritt zur Stimmabgabe bei geheimen Wahlen an einer oder mehreren über das Tätigkeitsgebiet der jeweiligen Gliederung verteilten Wahlurnen zusammen.
++
+[NOTE]
+====
+Dies ist nötig da _geheime Wahlen_ bisher nicht rechtssicher technisch umgesetzt werden können. Um diese zu ermöglichen wird daher an einem oder mehreren Orten die Wahl auf die klassische Variante mit Stimmzetteln und Urnen durchgeführt.
+====
 . Die Mitglieder eines Organs sind an der aktiven Mitarbeit verpflichtet, es liegt in ihrer Verantwortung an Diskussionen und der Beschlussfassung teilzunehmen. 
++
+[TIP]
+====
+Hier wird nochmals die Erwartungshaltung definiert, auch um das klassische "Das hat mir keiner gesagt" vorzubeugen. Wir empfehlen grundsätzlich Software einzusetzten die eine extra E-Mail oder Push-Nachricht verschickt wenn eine neue Beschlussvorlage vorliegt, aber wer das dann abschaltet kann es nicht auf das System schieben.
+====
 . Sofern das Organ keine abweichenden Regeln getroffen hat,  gelten die folgenden Abstimmungsregeln zur Beschlussfassung:
 * Eine Beschlussvorlage muss von  mindestens 10% der Abstimmungsberechtigten eingebracht werden – bei unter 21 Personen kann eine Einzellperson einen Antrag einbringen.
++
+[IMPORTANT]
+====
+Außer dem Quorum um einen Antrag einzubringen, ist kein Beteiligungsquorum festgelegt -- was dank der obigen Erwartungsformulierung okay ist. Grundsätzlich ist mensch sich mittlerweile einig das Abstimmungsquoren vor allem eine Verzerrung des Abstimmungswillen darstellen, da häufig viele fernbleiben in der Hoffnung das Quorum würde eh nicht erreicht.
+====
 * Eine Beschlussvorlage muss mindestens 3 Werktage (72 Stunden) zur Debatte stehen, damit allen die Möglichkeit gegeben ist, daran teilzunehmen.
 * Vorschläge zu Verfahrensweisen müssen mindestens 5 Werktage diskutiert und danach 5 Werktage abgestimmt werden können (also insg. mind 10 Werktage Zeit vergehen), damit alle Aspekte in Ruhe bedacht und abgewogen werden können.
 * Beschlüsse können auch vorher abgeschlossen werden, sofern alle Mitglieder an der Abstimmung teilgenommen haben.
++
+[TIP]
+====
+Dadurch sind Umlaufbeschlüsse genau wie Beschlüsse in Calls in denen alle Anwesend sind grundsätzlich auch okay -- denn es hatten ja alle die Möglichkeit daran teil zu nehmen.
+====
 * Wenn mehr dafür als dagegen gestimmt haben, gilt ein Antrag als angenommen und nach Abschluss der Abstimmung als sofort gültig.
 
 ## Beteiligungsförderung
