@@ -225,19 +225,63 @@ Dadurch sind Umlaufbeschlüsse genau wie Beschlüsse in Calls in denen alle Anwe
 
 ## Beteiligungsförderung
 
+[NOTE]
+====
+Als moderne, progressive politische Organisation erkennt die Vereinigung die strukturelle Benachteiligung an und auch, dass diese nur durch strukturelle Gegenmaßnahmen entgegen gewirkt werden kann. Um nicht selbst in diese zu fallen, gibt sich die Organisation daher von Beginn an strukturelle Zwänge auf um die Beteiligung inklusiv zu fördern.
+====
+
 . Die politische Willensbildung von Frauen, jungen Menschen und Menschen mit Diskriminierungserfahrung wird aktiv gefördert. Es ist Ziel der Vereinigung, dass keine Personen diskriminiert oder in ihrer politischen Arbeit behindert werden. Frauen, junge Menschen und Menschen mit Diskriminierungserfahrung haben das Recht, innerhalb der Vereinigun eigene Strukturen aufzubauen und eigene Arbeitsgruppen einzuberufen.
 . Diskriminierte Menschen sind Mensch die aufgrund von Rassismus, ihrer Behinderung, ihrer sexuellen Orientierung oder ihrer Geschlechtsidentität, auch jenseits binärer Geschlechternormen, Diskriminierungserfahrungen gemacht haben. Frauen sind Menschen, die von der Gesellschaft nicht als normative Männer betrachtet werden. Junge Menschen sind Menschen, die das 25. Lebensjahr noch nicht vollendet haben.
++
+[NOTE]
+====
+Zunäachst die Definitionen, weil dies immer wieder unklar ist. Dabei konkret wichtig, dass Diskrimierung und Frau im Verhältnis zur Gesellschaft zu einer Selbst-Definition der Person gemacht werden. Nur Junge Menschen sind über ein objektives Merkmal festgestzt.
+====
 . In allen Versammlungen wird eine getrennte Redeliste für Frauen geführt. Unter der Voraussetzung entsprechender Wortmeldungen wird mindestens jeder zweite Redebeitrag von dieser Redeliste aufgerufen. Bei begrenzter Anzahl an Redebeiträgen, sind die jenigen zu bevorzugen, die bisher am Wenigsten auf der Veranstaltung gesagt haben.
++
+[NOTE]
+====
+Anerkannte praktische Maßnahmen um möglichst viele Stimmen und Perspektiven zu hören: getrennte Rednerliste für Frauen und grundsätzlich die Empfehlung, dass diejenige zu bevorzugen sind, die bisher weniger gesagt haben. Dies sorgt für ein Hervorheben von ruhigeren Menschen und dämpft Egos und Menschen, die gerne im Mittelpunkt stehen -- da diese im Zweifel entgegen dem normalen Verhalten eben nicht schon wieder die Aufmerksamkeit bekommen.
+====
 . Niemand sollte mehr als zwei Legislaturen das selbe Amt oder Mandat inne haben. Diese Person kann ein drittes mal nur antreten, wenn es vorher einen 2/3 Beschuss des jeweilig wählenden Organs gab, dass die Zulassung genehmigt hat.
++
+[IMPORTANT]
+====
+Wer bereits im Amt ist, hat bereits automatisch den Erfahrungs- und Netzwerk-Vorteil, weshalb diese tendentiell wieder gewäht werden. Darauf wird sich dann aber gerne ausgeruht und keine passende Nachfoge angeleitet bis es zu spät ist. Um dies und Karriere-Politiker:innen zu verhindern, verbietet die Satzung eine zuhäufige Wiederwahl der Person _für das selbe  Amt oder Mandat_,wie es auch die Präsidentschafspositionen in vielen Ländern vorsieht (USA, Frankreich, aber auch Russland)
+====
 . Bei allen gewählten Organen ist auf einen Anteil von mindestens 50% Frauen, 25% diskriminierte Menschen und 15% junge Menschen hinzuwirken, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
++
+[IMPORTANT]
+====
+Jetzt wird es konkret. Die Zahlen fordern ein, dass unabhängig von der Struktur der Organisation, die wahrscheinlich weniger divers aussehen werden, für gewählte Gremien die ungefähren Verhältnisse der deutschen Gesellschaft nachgebildet werden. Dies sorgt insgesamt für eine bessere Durchmischung, mehr Perspektiven und –- nachweislich -- für bessere Ergebnisse.
+====
 . Bei der Aufstellung von Wahllisten ist der erste Platz und dann mindestens jeder zweite Platz an eine Frau zu vergeben, der spätestens dritte und dann mindestens jede vierte Platz an einen diskriminierten Menschen und spätestens der fünfte und dann jeder vierte Platz an einen jungen Menschen zu vergeben, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
++
+[IMPORTANT]
+====
+Dies wird nochmals einen Schritt konkreter, wenn wir von Wahllisten reden. Da diese über Positionen arbeiten und von oben nacheinander einziehen, ist es nur mit eine Frau auf Platz 1 garantiert in allen Verhältnissen mind. 50% Frauenanteil zu garantieren. Ähnliches gilt für die folgenden Gruppen.
+====
 . Diese Quotierungen sind auch bei Blockwahlvorschlägen einzuhalten.
 . Der Paragraph zur Beteiligungsförderung kann nur mit einem 2/3-Beschluss des Plenums verändert werden.
++
+[NOTE]
+====
+Nur dieser Paragraph der dem konkreten Minderheitenschutz dient hat diese höhere Hürde. Dies ist in Anbetracht der Tatsache, dass auch in modernen politischen Vereinigung selten mehr als ein Drittel Frauenanteil vorherrschen. Könnte dieser Passus durch eine einfache Mehrheit ausgehebelt werden, können die Frauen alleine dies nicht verhindern, was aber langfristig ein weiteres Schrumpfen der politischen Macht dieser hier zu fördernden Menschen bedeutet.
+====
 
 ## Organe der Vereinigung
 Organe der Vereinigung sind das Plenum, die Wahversammlung, der Koordinierungsausschuss, die Schiedskommission, die Kassenrevision und die Arbeitskreise.
 
+[NOTE]
+====
+Die Organisation setzt auf eine modernde, kollegiale, demokratische Grundsstruktur und nuttz dementsprechende Bezeichungen.
+====
+
 ## Das Plenum
+[NOTE]
+====
+Das Plenum ist die allgemeine online Versammlung, kann über Loomio oder jegliche andere Abstimmungsplattform organisiert werden. Hier werden grundsätzlich alle Beschlüsse gefasst. Inklusive der Strukturen der anderen Organe.
+====
 . Das Plenum ist die Mitgliederversammlung der Vereinigung. Sie ist das höchste Organ der Vereinignung. Sie kann Beschlüsse aller Art fassen, die die Arbeit und Ausrichtung der Vereinigung betreffen. 
 . Sie tagt grundsätzlich asynchron online und dauerhaft. Sie bestimmt eine Moderation, die die Durchführung leitet.
 . Sie entscheidet über die Satzung und deren Änderung. Sofern ein Absatz der Satzung keine abweichende Regelung vorsieht, genügen für alle Beschlüsse die einfache Mehrheit der abgebenen Stimmen.
@@ -248,16 +292,34 @@ Organe der Vereinigung sind das Plenum, die Wahversammlung, der Koordinierungsau
 . Sie kann den Koordinierungsausschuss verpflichten eine Wahlversammlung einzuberufen.
 
 ## Die Wahlversammlung
+[IMPORTANT]
+====
+Wahlen müssen geheim durchgeführt werden. Dies kann bis auf online nicht rechtssicher durchgeführt werden, weshalb die Satzung dafür ein eigenes Organ vorsieht. Dabei zu beachten ist, dass diese Wahlversammlung _nicht_ über andere Dinge als Personenwahlen beschließen kann. Dieses Recht ist dem Online Plenum vorbehalten.
+====
 . Die Wahlversammlung ist das räumliche Zusammenkommen der Mitgliederversammlung um Personenwahlen durchzuführen.
 . Dafür wird vom Koordinierungsausschuss mit Angabe einer Tagesordnung und den zu wählenden Ämtern schriftlich im Plenum und per E-Mail einberufen. Es ist ordentlich eingeladen, wenn die Informationsverantwortlichen der institutionellen Mitglieder und die Einzelmitglieder spätestens 14 Tage vor dem Zusammenkommen den Einladungstext vom Koordinierungsausschuss bekommen haben. 
 . Während der Wahlversammlung ist die ständige online Versammmlung unterbrochen. Die Wahlversammlung ist beschlussfähig, wenn zu ihr ordnungsgemäß einberufen wurde.
 . Die Wahlversammlung wählt:
  - Den Koordinierungsausschuss. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind in allen Fällen einzuhalten.
++
+[NOTE]
+====
+Es hat sich gezeigt, dass komplett offen zusammengestelllte Vorstände vor allem alle verschiedenen Strömungen vertreten, diese aber selten gut und konstruktiv zusammen arbeiten. Da das Plenum dauerhaft tagt und damit auch jederzeit politische Beschlüsse fassen kann, hat der KA selbst vor allem eine verwaltende Aufgabe. Um zu gewährleisten, dass dieser gut zusammen arbeit, ist daher von beginn an vorgesehen, dass sich hier auch ganze Teams in der Blockwahl antreten können.
+====
++
+[IMPORTANT]
+====
+Das Verwaltungsgericht hat geurteilt, dass die Blockwahl eine Einschränkung der Mitgliederrechte sind, die nur durch eine entsprechenden Satzungspassus eingeschränkt werden können. Es muss von daher in der Satzung stehen.
+====
  - Die Schiedskommission. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind einzuhalten, einzelllne Regelungen können vorrübergehend ausgesetzt werden, wenn diese nicht eingehalten werden können. Ein Aussetzen aller Quotierungsanforderungen ist nicht möglich.
  - Die Kassenrevision. Dies kann auch per Blockwahl geschehen.
 . Die Wahlversammlung kann als Aufstellungsversammlung von Kandidat:innen fungieren, wenn die Wahl in der Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des jeweiligen Kommunalwahlgesetzes erfüllen. Auch die Aufstellungsversammlung kann die Liste per Blockwahl bestimmen.
 
 ## Der Koordinierungsausschuss
+[NOTE]
+====
+Der KA ist rechtlich gesehen der Vorstand, in dieser Satzung ist dies vor alllem als Kollegialer oberster Arbeitskreis für das Tagesgeschäft vorgesehen.
+====
 . Der Koordinierungsausschuss vertritt die Vereinigung rechtlich und nimmt alle Funktionen eines Vorstands gemäß §26 BGB wahr.
 . Der Koordinierungsausschuss führt die Vereingung.
 . Er bestimmt aus seiner Mitte eine:n Schatzmeister:in.
@@ -273,29 +335,80 @@ Organe der Vereinigung sind das Plenum, die Wahversammlung, der Koordinierungsau
 . Der Koordinierungsausschuss kann Entscheidungen finanzieller Art nur im Rahmen der Mittel der Vereinigung oder aufgrund eines Beschlusses des Plenums treffen.
 . Der Koordinierungsausschuss entscheidet über die Anerkennung von Untergliederungen und Arbeitskreisen sowie über die Zusammenarbeit mit Interessengruppen. Eine Bestätigung erfolgt durch das Plenum.
 . Er kann Aufgaben auf Widerruf an Arbeitskreise oder Einzelpersonen delegieren.
++
+[NOTE]
+====
+Es ist nicht zu erwarten, dass das KA Team ausschließich und durchgehend die jeweils besten Personen für einen Posten in sich vereint und die Kapazitäten hat all diese auszufüllen. Dank dieses Passus kann der KA relativ unproblematisch alle Arbeiten auch per Beschluss delegieren -- auch an Menschen, die nicht Mitglied sind.
+====
 . Der Koordinierungsausschuss lädt zur Aufstellungsversammlung ein. Die Einladung und der Inhalt der Aufstellungsversammlung entsprechen den Kriterien des Kommunalwahlrechts.
 
 ## Die Schiedskommission
+[IMPORTANT]
+====
+Die rechtlliche Vorgaben verlangen nicht, dass es ein Schiedsgericht gibt. In der Praxis ist es ohne aber in einer politischen Organisation nicht möglich Satzungsverletzungen zu ahnden. Es ist daher kein Satzungsbruch, wenn diese Gremium nicht gewählt wird, aber wir empfehlen die nichtsdesotrotz von Beginn an zu tun und im Zweifel auch mit sehr strengen Menschen zu besetzten: Die SK ist die letzte Instanz zu verteideigung der wichtigen, inneren Werte gegenüber Störern.
+====
 . Die Schiedskommission besteht aus mindestens drei Mitgliedern. Die Mitglieder der Schiedskommission dürfen nicht gleichzeitig Mitglied des Koordinierungsausschusses sein.
++
+[NOTE]
+====
+Rechtliche Vorgaben die nicht verändert werden können ohne die Rechtmäßigkeit der SK zu riskieren
+====
 . Die Schiedskommission tagt dauerhaft online.
++
+[NOTE]
+====
+Auch die SK tagt dauerhaft online, ist dahin gehend nur ein Arbeitskreis mit besonderen Rechten.
+====
 . Die Schiedskommission wird nur auf Antrag des Koordinierungsausschusses, des Plenums oder eines Mitglieds, das selbst von einem Vorgang direkt und erheblich betroffen ist, tätig.
 . Die Schiedskommission entscheidet mit Zweidrittelmehrheit über Verstöße gegen die Satzung.
 
 ## Arbeitskreise
++
+[NOTE]
+====
+Hier findet die eigentliche politische Arbeit und der Aktivismus statt. Aufgeteilt in passende Arbeitsgruppen, die vom Plenum oder dem KA einberufen werden können.
+====
 . Arbeitskreise werden auf Beschluss des Plenums oder des Koordinierungsausschusses gegründet. Sie arbeiten zu einem bestimmten Thema, Arbeitsbereich oder Projekt.
 . Sie geben sich selbst eine demokratische Struktur, die ihren Anforderungen entspricht, sie benennen eine Ansprechperson.
++
+[NOTE]
+====
+Auch diese sind demokratisch zu organisieren. Die Ansprechperson ist inbesondere für den KA eine wichtige Kontaktperson
+====
 . Sie sind den Mitgliedern zugänglich. Die Mitarbeit von Einzellpersonen kann aber aufgrund von Mehrheitsbeschlüssen der anderen Mitglieder oder auf Beschlluss des Koordinierungsausschuss eingeschränkt werden.
++
+[NOTE]
+====
+Auch wenn die Mitarbeit explizit erwünscht ist, wird den anderen Mitgliedern von Beginn das explizite Recht eingeräumt auch Menschen von einzelllnen Gruppen wieder ausschließen zu dürfen.
+====
 . Die Arbeitskreise können Gäste einladen.
 
 ## Finanzen
-. Für Mitglieder von Mitgliedsvereinen und -parteien ist der Mitgliedsbeitrag mit dem satzungsgemäßen Vereins- bzw. Parteibeitrag für ihren jeweiligen Verein oder Partei abgegolten. Im Gegenzug tragen die Mitgliedsvereine und -Parteien zu den laufenden Kosten der Vereinigung bei.
+. Für Mitglieder von institutionellen Mitgiedsorganisationen ist der Mitgliedsbeitrag mit dem satzungsgemäßen Vereins- bzw. Parteibeitrag für ihren jeweiligen Verein oder Partei abgegolten. Im Gegenzug tragen die Mitgliedsvereine und -Parteien zu den laufenden Kosten der Vereinigung bei.
 . Die Höhe des Mitgliedsbeitrags für alle natürlichen Mitglieder der Vereinigung regelt eine Beitragsordnung, die das Plenum beschließt.
 . Der Mitgliedsbeitrag wird zentral über den Koordinierungsausschuss erhoben.
 . Zeichnungsberechtigt sind jeweils zwei Mitglieder der Koordinierungsausschuss gemeinsam.
++
+[NOTE]
+====
+Zeichnungsberechtigt heißt, die Gelder ausgeben zu dürfen. Eine Satzung sollte immer festlegen wer Verträge unterzeichnen darf, andernfalls muss immer der gesamte Vorstand unterzeichnen, was schnell zu einem logitischen Problem wird.
+
+Dieser Passus entbindet die Zeichnenden nicht davon eine Beschlusslage innerhalb des KA haben zu müssen, sondern regelt nur die Vertretung nach außen.
+====
 . Über diese Mittel hat der Koordinierungsausschuss die Finanzhoheit. Darüber hinausgehender Finanzbedarf ist anlassbezogen von den institutionellen Mitgliedern und dem Plenum fallweise zu beschließen.
++
+[NOTE]
+====
+Aber auch diese, oder zumindest Teile davon, ließen sich delegieren.
+====
 
 ## Schluss- und Übergangsbestimmungen
 . Die Vereinigung kann aufgrund eines Beschlusses des Plneums mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit des Plenums.
++
+[NOTE]
+====
+Für die Auflösung, hat sich gezeigt, sollte die Satzung immer eine konkrete Hürde vorsehen, da diese einen erheblichen Einfluss auf ihre Mitglieder ausübt. Wir schlagen hier vor, dass für eine einfache Auflösung eine höhere Mehrheit erforderlich sein sollte als für eine Verschmelzung, da bei ersterem ein Profitinteresse der Mitglieder nicht ausgeschlossen werden kann.
+====
 +
 Löst sich die Vereinigung durch Verschmelzung mit einer anderen politischen Organisation auf, geht das Vermögen an diese über. In allen anderen Fällen geht das Vermögen an die Mitglieder zu gleichen Teilen (BGB §45).
 . Sollte eine oder mehrere Bestimmungen dieser Satzung rechtsunwirksam sein, so berührt dies nicht die Gültigkeit der übrigen Bestimmungen. Soweit Bestimmungen in dieser Satzung unwirksam sein sollten oder die Satzung eine Regelungslücke enthalten sollte, sind die Vorschriften des BGB über den eingetragenen Verein entsprechend anzuwenden.
