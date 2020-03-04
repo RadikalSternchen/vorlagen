@@ -18,11 +18,11 @@ Dies ist die Vorlage für eine moderne, progressive Wähler:innenvereinigung auf
 💡 Nachvollziehbar:: Die Satzung ist in klarer, nachvollziehbarer Sprache formuliert. Die kommentierte Fassung erklärt die Sachverhalte und Gedankengänge und die weiteren Kontext geben und verständlich machen.
 🍀 Sofort einsatzbereit:: Nur der erste Paragraph muss angepasst werden, alles andere ist auf allgemeine Worte angepasst. Optional kann noch der unter 2. genannte komunalpolitische Konsens den eigenen Ansprüchen entsprechend angepasst werden. Die Vorlage muss nur nach LibreOffice kopiert, Name und Ort eingetragen und die Kommtare gelöscht werden und schon kanns losgehen!
 🤳 Anti-Ego:: Neben der klar formulierten Erwartungshaltung eines wertschätzenden Umgangs miteinander, sieht die Satzung auch einen Verhaltenskodex, Moderation, Rednerinnenlisten und Revisions-Gremien (Schiedsgericht) vor um Konflikte zu vermeinden und einen inklusiven Umgang der vielen Stimmen raum gibt, zu gestalten. Mandatsträger:innen sind zur Transparenz über die Einnahmen und Zurückspielen von Geldern selbstverpflichtet.
-🚀 Kollaborativ und arbeitsorient:: ADie Aufgaben des Vorstands werden hier von einem Koordinierungsauschuss übernommen, die meiste inhaltliche und thematische Arbeit durch Arbeitsgruppen, die auch das Plenum selbst einberufen kann. Für alle Wahlen sind bereits Blockwahlen vorgesehen, damit sich hier gleich ganze Teams, die gut miteinander arbeiten können, zur Wahl stelllen können.
+🚀 Kollaborativ und arbeitsorient:: Die Aufgaben des Vorstands werden hier von einem Koordinierungsauschuss übernommen, die meiste inhaltliche und thematische Arbeit durch Arbeitsgruppen, die auch das Plenum selbst einberufen kann. Für alle Wahlen sind bereits Blockwahlen vorgesehen, damit sich hier gleich ganze Teams, die gut miteinander arbeiten können, zur Wahl stelllen können.
 🌈 Progressiv quotiert:: Gleichzeitig erkennt die Satzung die strukturelle Benachteiligung bestimmter Gruppen an und verfügt über ein progressives Modell mit der sich die Vereinigung zwingt dagegen auch strukturell vorzugehen, Benachteiligte und ihren Nachwuchs fördert und politische Stimme verleiht.
 🔐 DSGVO konform:: Als über ein Online Verfahren Abstimmende Organisation steht die Frage des Datenschutz auch mit auf dem Programm und wird von beginn an in der Satzung geklärt.
 🤝 mit politischen Konsens:: Um von vorneherein bestimmte Grabenkämpfe nicht zu führen und den Problemen aus dem Weg zu gehen, kommt die Satzung mit einem politischen Konsens (den wir empfehlen anzupassen!) und bestimmten Ausschlusskriterien der Mitgliedschaft.
-⛓ und dezentraler Mitgliederstruktur:: Das innovative Mitgliederstruktur-Modell dieser Vereinigung erlaubt es auch anderen Vereinen oder Parteien der Organisation beizutreten, wodurch deren Mitgieder automatisch auch Stimm- und Wahlberechtigte werden. Das erlaubt auf bestehende Strukturen aufzusetzen und eine Mitgliederinnen-Liste zu führen, die ansich dezentral gestaltet ist –- was wiederum die hemmschwelle der Beteiligung senkt und gleichzeitig die Einzellperson schützt.
+⛓ und dezentraler Mitgliederstruktur:: Das innovative Mitgliederstruktur-Modell dieser Vereinigung erlaubt es auch anderen Vereinen oder Parteien der Organisation beizutreten, wodurch deren Mitgieder automatisch auch Stimm- und Wahlberechtigte werden. Das erlaubt auf bestehende Strukturen aufzusetzen und eine Mitgliederinnen-Liste zu führen, die ansich dezentral gestaltet ist –- was wiederum die hemmschwelle der Beteiligung senkt und gleichzeitig die Einzelperson schützt.
 
 
 ### Disclaimer
@@ -75,7 +75,7 @@ Der Verein kann sich auch eintragen lassen und würde dann die Endung e.V. trage
 . Zweck der Vereinignung ist die Mitwirkung am politischen Willensbildungsprozess und die Teilnahme an den kommunalen Wahlen.
 
 . Der Satzungszweck wird verwirklicht durch
-   * die Durchführung des Plenums, von Arbeitsgruppen,politischen Veranstaltungen und öffentlichen Aktionen
+   * die Durchführung des Plenums, von Arbeitsgruppen, politischen Veranstaltungen und öffentlichen Aktionen
    * die Abgabe von politischen Erklärungen und Publikationen
    * Anträge und Anfragen auf kommunaler Ebene
 
@@ -90,13 +90,13 @@ Der Verein kann sich auch eintragen lassen und würde dann die Endung e.V. trage
 .. zur Verteidigung und zum Ausbau der kommunalen Demokratie und Büger:innenbeteiligung, z.B. durch die Stärkung des kommunallen Parlaments, sowie der Verbesserung der Mitspracherechte der Beiräte und Bürger:innen, z.B. in Form von Beteiligungshaushalten und der Förderung direkter Mitwirkungsrechte (Volksbefragungen und –entscheide und Bürger:innenräte).
 .. zu den kommunalpolitischen Eckpunkten. Diese sind:
 * Es ist für uns selbstverständlich, gegen jede Art von Diskriminierung, gegen Rassismus, Antisemitismus und Ausländerfeindlichkeit aufzutreten. Jeder Versuch von alten und neuen Nazis in der Öffentlichkeit noch stärker Fuß zu fassen, muss deshalb zurückgewiesen werden
-* Global denken, lokal handekn -- dies gilt insbesondere beim Thema Klimagerechtigkeit. Daher fordern wir den Klimanotstand auszurufen und alle bestehenden, wie auch zukunftigen politischen Entscheidungen auf ihren direkten wie auch indirekten Klimaeinfluss zu prüfen. 
+* Global denken, lokal handeln -- dies gilt insbesondere beim Thema Klimagerechtigkeit. Daher fordern wir den Klimanotstand auszurufen und alle bestehenden, wie auch zukunftigen politischen Entscheidungen auf ihren direkten wie auch indirekten Klimaeinfluss zu prüfen. 
 * Wir legen alle Bezüge, die wir im Zusammenhang mit Mandaten erhalten, offen. Unsere Mandatsträger:innen verpflichten sich ein Drittel ihrer Aufwandsentschädigungen der Vereinigung für politische Arbeit und den Sozialfonds zur Verfügung zu stellen.
 * Wir handeln entsprechend unserem Programm und nutzen unsere Mandate um gemeinsam mit Betroffenen öffentlichen Druck zu entwickeln!
 
 [TIP]
 ====
-Dies ist der politische Grundkonsens. Parteien haben ein Parteiprogramm,als Wähler:innenvereinigung besteht diese Notwendigkeit nicht. Es hat sich aber in der Praxis gezeigt, dass es sinnvoll ist ein paar Grundaspekte von Beginn an klar zu haben, um dauerhafte Grundsatzdiskussionen in der Organisation zu vermeiden.
+Dies ist der politische Grundkonsens. Parteien haben ein Parteiprogramm, als Wähler:innenvereinigung besteht diese Notwendigkeit nicht. Es hat sich aber in der Praxis gezeigt, dass es sinnvoll ist ein paar Grundaspekte von Beginn an klar zu haben, um dauerhafte Grundsatzdiskussionen in der Organisation zu vermeiden.
 ====
 
 
@@ -127,7 +127,7 @@ Jedes institutionelle Mitglied benennt eine Informationsperson und eine Stellver
 +
 [IMPORTANT]
 ====
-Es ist wichtig nochmal fest zu halten, dass die Gründe in 3.3 nicht nur Grund sind um eine Aufnahme zu verweigern -- eine Aufnahme kann ohne die Angabe von Gründen abgelehnt werden -- sondern auch as Ausschlussgrund dienen kann. Dabei ist die Vorsätzlichkeit ausschlaggebend, die auch dadurch gegeben sein kann, dass die Person darüber in Kenntniss gesetzt wurde, sich aber nicht distanziert bzw. weiter mit gemacht hat.
+Es ist wichtig nochmal fest zu halten, dass die Gründe in 3.3 nicht nur Grund sind um eine Aufnahme zu verweigern -- eine Aufnahme kann ohne die Angabe von Gründen abgelehnt werden -- sondern auch as Ausschlussgrund dienen kann. Dabei ist die Vorsätzlichkeit ausschlaggebend, die auch dadurch gegeben sein kann, dass die Person darüber in Kenntniss gesetzt wurde, sich aber nicht distanziert bzw. weiter mitgemacht hat.
 ====
 . Der Ausschluss kann nur als Folge eines Schiedsverfahrens erfolgen. Bei Einleitung eines Schiedsverfahrens entscheidet die Schiedskommission endgültig innerhalb eines Monats. Die Mitgliedsrechte bleiben bis zur Entscheidung der Schiedskommission bestehen.
 +
@@ -140,15 +140,15 @@ Die Mitgliedschaft in politischen Organisationen genießt besonderen Schutz im D
 
 [NOTE]
 ====
-Im folgenden werden einige Grundsätze der Zusammenarbeit festgehalten. Darunter fallen der direkten Umgang miteinander genauso wie, dass grundsätzlich asynchron und online gearbetiet und beschlossen wird.
+Im folgenden werden einige Grundsätze der Zusammenarbeit festgehalten. Darunter fallen der direkten Umgang miteinander genauso wie, dass grundsätzlich asynchron und online gearbeitet und beschlossen wird.
 ====
 
-. Die Mitglieder pflegen einen wertschätzenden Umgang miteinder,der das Gemeinsame und den inneren Konsens sucht. Dabei ist aufeinander, insbesondere auf die Bedürfnisse betroffener und davon benachteiligter Menschen, Rücksicht zu nehmen und einzugehen.
+. Die Mitglieder pflegen einen wertschätzenden Umgang miteinder, der das Gemeinsame und den inneren Konsens sucht. Dabei ist aufeinander, insbesondere auf die Bedürfnisse betroffener und davon benachteiligter Menschen, Rücksicht zu nehmen und einzugehen.
 . Die Vereinigung hat einen Verhaltenskodex, der die Erwartungshaltung an die Mitglieder und alle Gäste bei Veranstaltungen, sowie in den online Plattformen, formuliert und aktiv durchgesetzt wird.
 +
 [NOTE]
 ====
-Die Satzung regelt nur das Gröbste, für alles weitere gibt es einen Verhaltenskodex, den wir empfehen ebenfalls aufzulegen und durchaus mit Biss auszustatten und auch durchzusetzen. UIm
+Die Satzung regelt nur das Gröbste, für alles weitere gibt es einen Verhaltenskodex, den wir empfehen ebenfalls aufzulegen und durchaus mit Biss auszustatten und auch durchzusetzen.
 ====
 . Die Vereinigung will jedem Mitglied, unabhängig von persönlichen Einschränkungen hinsichtlich Raum und Zeit und mögliche Einschränkungen, eine umfassende Teilnahme an der Meinungs- und Willensbildung ermöglichen. Daher treten die Organe grundsätzlich online zusammen und tagen grundsätzlich ständig.
 +
@@ -169,7 +169,7 @@ Statt dessen scheint daher die aktuelll einzig rechtlich mögliche Variante dari
 +
 [IMPORTANT]
 ====
-Umgekehrt muss sich die Organisation auch das Recht geben lassen, diese Informationen nicht löschen zu müssen. Es ist schließlich in der Praxis nicht akzeptabe, dass gefasste Beschlüsse bei Austritt des Mitglieds unkenntich werden. Statt dessen wird auch nochmal festgeschrieben, dass die eingebrachten Daten nicht nur öffentlich, sondern sogar dauerhaft archiviert werden dürfen. 
+Umgekehrt muss sich die Organisation auch das Recht geben lassen, diese Informationen nicht löschen zu müssen. Es ist schließlich in der Praxis nicht akzeptabel, dass gefasste Beschlüsse bei Austritt des Mitglieds unkenntich werden. Statt dessen wird auch nochmal festgeschrieben, dass die eingebrachten Daten nicht nur öffentlich, sondern sogar dauerhaft archiviert werden dürfen. 
 
 All dem wird implizit durch das Stellen eines Mitgliedsantrag zugestimmt.
 ====
@@ -192,7 +192,7 @@ Es ist grundsätzlich sinnvoll bei jeder größeren Ansammlung von Menschen eine
 +
 [TIP]
 ====
-Dies kann z.B. ein Call sein. Grundsätzlich sollte bei diesem Beschluss auch die Beschlussfähigkeit der Zusammenkunft festgelegt werden. Sollte dies ein häufigeres Verfahren sein -- z.B. einmal die Woch einen Call zu haben -- sollte die Beschlussfähigkeit dafür durch einen allgemeinen Verfahrensbeschlluss geregelt werden um Streitigkeiten darüber vorzubeigen.
+Dies kann z.B. ein Call sein. Grundsätzlich sollte bei diesem Beschluss auch die Beschlussfähigkeit der Zusammenkunft festgelegt werden. Sollte dies ein häufigeres Verfahren sein -- z.B. einmal die Woche einen Call zu haben -- sollte die Beschlussfähigkeit dafür durch einen allgemeinen Verfahrensbeschlluss geregelt werden um Streitigkeiten darüber vorzubeigen.
 ====
 . Ein Organ tritt zur Stimmabgabe bei geheimen Wahlen an einer oder mehreren über das Tätigkeitsgebiet der jeweiligen Gliederung verteilten Wahlurnen zusammen.
 +
@@ -207,7 +207,7 @@ Dies ist nötig da _geheime Wahlen_ bisher nicht rechtssicher technisch umgesetz
 Hier wird nochmals die Erwartungshaltung definiert, auch um das klassische "Das hat mir keiner gesagt" vorzubeugen. Wir empfehlen grundsätzlich Software einzusetzten die eine extra E-Mail oder Push-Nachricht verschickt wenn eine neue Beschlussvorlage vorliegt, aber wer das dann abschaltet kann es nicht auf das System schieben.
 ====
 . Sofern das Organ keine abweichenden Regeln getroffen hat,  gelten die folgenden Abstimmungsregeln zur Beschlussfassung:
-* Eine Beschlussvorlage muss von  mindestens 10% der Abstimmungsberechtigten eingebracht werden – bei unter 21 Personen kann eine Einzellperson einen Antrag einbringen.
+* Eine Beschlussvorlage muss von  mindestens 10% der Abstimmungsberechtigten eingebracht werden – bei unter 21 Personen kann eine Einzelperson einen Antrag einbringen.
 +
 [IMPORTANT]
 ====
@@ -230,7 +230,7 @@ Dadurch sind Umlaufbeschlüsse genau wie Beschlüsse in Calls in denen alle Anwe
 Als moderne, progressive politische Organisation erkennt die Vereinigung die strukturelle Benachteiligung an und auch, dass diese nur durch strukturelle Gegenmaßnahmen entgegen gewirkt werden kann. Um nicht selbst in diese zu fallen, gibt sich die Organisation daher von Beginn an strukturelle Zwänge auf um die Beteiligung inklusiv zu fördern.
 ====
 
-. Die politische Willensbildung von Frauen, jungen Menschen und Menschen mit Diskriminierungserfahrung wird aktiv gefördert. Es ist Ziel der Vereinigung, dass keine Personen diskriminiert oder in ihrer politischen Arbeit behindert werden. Frauen, junge Menschen und Menschen mit Diskriminierungserfahrung haben das Recht, innerhalb der Vereinigun eigene Strukturen aufzubauen und eigene Arbeitsgruppen einzuberufen.
+. Die politische Willensbildung von Frauen, jungen Menschen und Menschen mit Diskriminierungserfahrung wird aktiv gefördert. Es ist Ziel der Vereinigung, dass keine Personen diskriminiert oder in ihrer politischen Arbeit behindert werden. Frauen, junge Menschen und Menschen mit Diskriminierungserfahrung haben das Recht, innerhalb der Vereinigung eigene Strukturen aufzubauen und eigene Arbeitsgruppen einzuberufen.
 . Diskriminierte Menschen sind Mensch die aufgrund von Rassismus, ihrer Behinderung, ihrer sexuellen Orientierung oder ihrer Geschlechtsidentität, auch jenseits binärer Geschlechternormen, Diskriminierungserfahrungen gemacht haben. Frauen sind Menschen, die von der Gesellschaft nicht als normative Männer betrachtet werden. Junge Menschen sind Menschen, die das 25. Lebensjahr noch nicht vollendet haben.
 +
 [NOTE]
@@ -243,19 +243,19 @@ Zunäachst die Definitionen, weil dies immer wieder unklar ist. Dabei konkret wi
 ====
 Anerkannte praktische Maßnahmen um möglichst viele Stimmen und Perspektiven zu hören: getrennte Rednerliste für Frauen und grundsätzlich die Empfehlung, dass diejenige zu bevorzugen sind, die bisher weniger gesagt haben. Dies sorgt für ein Hervorheben von ruhigeren Menschen und dämpft Egos und Menschen, die gerne im Mittelpunkt stehen -- da diese im Zweifel entgegen dem normalen Verhalten eben nicht schon wieder die Aufmerksamkeit bekommen.
 ====
-. Niemand sollte mehr als zwei Legislaturen das selbe Amt oder Mandat inne haben. Diese Person kann ein drittes mal nur antreten, wenn es vorher einen 2/3 Beschuss des jeweilig wählenden Organs gab, dass die Zulassung genehmigt hat.
+. Niemand sollte mehr als zwei Legislaturen das selbe Amt oder Mandat inne haben. Diese Person kann ein drittes Mal nur antreten, wenn es vorher einen 2/3 Beschuss des jeweilig wählenden Organs gab, dass die Zulassung genehmigt hat.
 +
 [IMPORTANT]
 ====
 Wer bereits im Amt ist, hat bereits automatisch den Erfahrungs- und Netzwerk-Vorteil, weshalb diese tendentiell wieder gewäht werden. Darauf wird sich dann aber gerne ausgeruht und keine passende Nachfoge angeleitet bis es zu spät ist. Um dies und Karriere-Politiker:innen zu verhindern, verbietet die Satzung eine zuhäufige Wiederwahl der Person _für das selbe  Amt oder Mandat_,wie es auch die Präsidentschafspositionen in vielen Ländern vorsieht (USA, Frankreich, aber auch Russland)
 ====
-. Bei allen gewählten Organen ist auf einen Anteil von mindestens 50% Frauen, 25% diskriminierte Menschen und 15% junge Menschen hinzuwirken, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
+. Bei allen gewählten Organen ist auf einen Anteil von mindestens 50% Frauen, 25% diskriminierte Menschen und 15% junge Menschen hinzuwirken, wobei einzelne Personen mehrere Merkmale in sich vereinen können.
 +
 [IMPORTANT]
 ====
 Jetzt wird es konkret. Die Zahlen fordern ein, dass unabhängig von der Struktur der Organisation, die wahrscheinlich weniger divers aussehen werden, für gewählte Gremien die ungefähren Verhältnisse der deutschen Gesellschaft nachgebildet werden. Dies sorgt insgesamt für eine bessere Durchmischung, mehr Perspektiven und –- nachweislich -- für bessere Ergebnisse.
 ====
-. Bei der Aufstellung von Wahllisten ist der erste Platz und dann mindestens jeder zweite Platz an eine Frau zu vergeben, der spätestens dritte und dann mindestens jede vierte Platz an einen diskriminierten Menschen und spätestens der fünfte und dann jeder vierte Platz an einen jungen Menschen zu vergeben, wobei einzellne Personen mehrere Merkmale in sich vereinen können.
+. Bei der Aufstellung von Wahllisten ist der erste Platz und dann mindestens jeder zweite Platz an eine Frau zu vergeben, der spätestens dritte und dann mindestens jede vierte Platz an einen diskriminierten Menschen und spätestens der fünfte und dann mindestens jeder vierte Platz an einen jungen Menschen zu vergeben, wobei einzelne Personen mehrere Merkmale in sich vereinen können.
 +
 [IMPORTANT]
 ====
@@ -311,7 +311,7 @@ Es hat sich gezeigt, dass komplett offen zusammengestelllte Vorstände vor allem
 ====
 Das Verwaltungsgericht hat geurteilt, dass die Blockwahl eine Einschränkung der Mitgliederrechte sind, die nur durch eine entsprechenden Satzungspassus eingeschränkt werden können. Es muss von daher in der Satzung stehen.
 ====
- - Die Schiedskommission. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind einzuhalten, einzelllne Regelungen können vorrübergehend ausgesetzt werden, wenn diese nicht eingehalten werden können. Ein Aussetzen aller Quotierungsanforderungen ist nicht möglich.
+ - Die Schiedskommission. Dies kann auch per Blockwahl geschehen. Die Quotierungen zur Vielfalts- und Jugendförderung sind einzuhalten, einzelne Regelungen können vorrübergehend ausgesetzt werden, wenn diese nicht eingehalten werden können. Ein Aussetzen aller Quotierungsanforderungen ist nicht möglich.
  - Die Kassenrevision. Dies kann auch per Blockwahl geschehen.
 . Die Wahlversammlung kann als Aufstellungsversammlung von Kandidat:innen fungieren, wenn die Wahl in der Einladung angekündigt worden ist. Hierbei sind nur diejenigen Mitglieder wahlberechtigt, die die Kriterien des jeweiligen Kommunalwahlgesetzes erfüllen. Auch die Aufstellungsversammlung kann die Liste per Blockwahl bestimmen.
 
@@ -345,7 +345,7 @@ Es ist nicht zu erwarten, dass das KA Team ausschließich und durchgehend die je
 ## Die Schiedskommission
 [IMPORTANT]
 ====
-Die rechtlliche Vorgaben verlangen nicht, dass es ein Schiedsgericht gibt. In der Praxis ist es ohne aber in einer politischen Organisation nicht möglich Satzungsverletzungen zu ahnden. Es ist daher kein Satzungsbruch, wenn diese Gremium nicht gewählt wird, aber wir empfehlen die nichtsdesotrotz von Beginn an zu tun und im Zweifel auch mit sehr strengen Menschen zu besetzten: Die SK ist die letzte Instanz zu verteideigung der wichtigen, inneren Werte gegenüber Störern.
+Die rechtlliche Vorgaben verlangen nicht, dass es ein Schiedsgericht gibt. In der Praxis ist es ohne aber in einer politischen Organisation nicht möglich Satzungsverletzungen zu ahnden. Es ist daher kein Satzungsbruch, wenn diese Gremium nicht gewählt wird, aber wir empfehlen die nichtsdesotrotz von Beginn an zu tun und im Zweifel auch mit sehr strengen Menschen zu besetzten: Die SK ist die letzte Instanz zu Verteidiegung der wichtigen, inneren Werte gegenüber Störern.
 ====
 . Die Schiedskommission besteht aus mindestens drei Mitgliedern. Die Mitglieder der Schiedskommission dürfen nicht gleichzeitig Mitglied des Koordinierungsausschusses sein.
 +
@@ -375,11 +375,11 @@ Hier findet die eigentliche politische Arbeit und der Aktivismus statt. Aufgetei
 ====
 Auch diese sind demokratisch zu organisieren. Die Ansprechperson ist inbesondere für den KA eine wichtige Kontaktperson
 ====
-. Sie sind den Mitgliedern zugänglich. Die Mitarbeit von Einzellpersonen kann aber aufgrund von Mehrheitsbeschlüssen der anderen Mitglieder oder auf Beschlluss des Koordinierungsausschuss eingeschränkt werden.
+. Sie sind den Mitgliedern zugänglich. Die Mitarbeit von Einzelpersonen kann aber aufgrund von Mehrheitsbeschlüssen der anderen Mitglieder oder auf Beschluss des Koordinierungsausschuss eingeschränkt werden.
 +
 [NOTE]
 ====
-Auch wenn die Mitarbeit explizit erwünscht ist, wird den anderen Mitgliedern von Beginn das explizite Recht eingeräumt auch Menschen von einzelllnen Gruppen wieder ausschließen zu dürfen.
+Auch wenn die Mitarbeit explizit erwünscht ist, wird den anderen Mitgliedern von Beginn das explizite Recht eingeräumt auch Menschen von einzelnen Gruppen wieder ausschließen zu dürfen.
 ====
 . Die Arbeitskreise können Gäste einladen.
 
@@ -391,7 +391,7 @@ Auch wenn die Mitarbeit explizit erwünscht ist, wird den anderen Mitgliedern vo
 +
 [NOTE]
 ====
-Zeichnungsberechtigt heißt, die Gelder ausgeben zu dürfen. Eine Satzung sollte immer festlegen wer Verträge unterzeichnen darf, andernfalls muss immer der gesamte Vorstand unterzeichnen, was schnell zu einem logitischen Problem wird.
+Zeichnungsberechtigt heißt, die Gelder ausgeben zu dürfen. Eine Satzung sollte immer festlegen wer Verträge unterzeichnen darf, andernfalls muss immer der gesamte Vorstand unterzeichnen, was schnell zu einem logistischen Problem wird.
 
 Dieser Passus entbindet die Zeichnenden nicht davon eine Beschlusslage innerhalb des KA haben zu müssen, sondern regelt nur die Vertretung nach außen.
 ====
@@ -403,7 +403,7 @@ Aber auch diese, oder zumindest Teile davon, ließen sich delegieren.
 ====
 
 ## Schluss- und Übergangsbestimmungen
-. Die Vereinigung kann aufgrund eines Beschlusses des Plneums mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit des Plenums.
+. Die Vereinigung kann aufgrund eines Beschlusses des Plenums mit einer zweidrittel Mehrheit aufgelöst werden. Für den Beschluss um mit einer anderen politischen Organisation verschmolzen oder sich als Untergliederung dieser zu erklären reicht die einfache Mehrheit des Plenums.
 +
 [NOTE]
 ====
